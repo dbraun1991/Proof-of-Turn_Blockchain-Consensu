@@ -1,0 +1,973 @@
+\begin{thebibliography}{125}
+
+\bibitem[\bblFontAuthorInText{Agosta \bbland Crosby}(2003)Agosta \bbland
+  Crosby]{Agosta.2003}
+\bblFontAuthorInList{Agosta\bblFirstnameSep{}JM\bblAuthorsSep{}Crosby\bblFirstnameSep{}S}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2003}}\bblAuthorTitleSep{}\bblFontBookTitle{Network
+  integrity by inference in distributed systems}, 2003.
+\newblock \url{https://www.researchgate.net/publication/228786554}
+  \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{Ateniese et~al.}(2017)Ateniese, Magri, Venturi,
+  \bbland Andrade]{Ateniese.2017}
+\bblFontAuthorInList{Ateniese\bblFirstnameSep{}G\bblAuthorsSep{}Magri\bblFirstnameSep{}B\bblAuthorsSep{}Venturi\bblFirstnameSep{}D\bblAuthorsSep{}Andrade\bblFirstnameSep{}E}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2017}}\bblAuthorTitleSep{}\bblFontBookTitle{Redactable
+  Blockchain: or Rewriting History in Bitcoin and Friends}.
+\newblock \bblin \bblFontJournalTitle{2017 IEEE European Symposium on Security
+  and Privacy} \bblpp 111--126.
+\newblock \url{https://doi.org/10.1109/EuroSP.2017.37}
+
+\bibitem[\bblFontAuthorInText{Back et~al.}(2014)Back, Corallo, Dashir,
+  Friedenbach, Maxwell, Miller, Poelstra, Timon, \bbland Wuille]{Back.2014}
+\bblFontAuthorInList{Back\bblFirstnameSep{}A\bblAuthorsSep{}Corallo\bblFirstnameSep{}M\bblAuthorsSep{}Dashir\bblFirstnameSep{}L\bblAuthorsSep{}Friedenbach\bblFirstnameSep{}M\bblAuthorsSep{}Maxwell\bblFirstnameSep{}G\bblAuthorsSep{}Miller\bblFirstnameSep{}A\bblAuthorsSep{}Poelstra\bblFirstnameSep{}A\bblAuthorsSep{}Timon\bblFirstnameSep{}J\bblAuthorsSep{}Wuille\bblFirstnameSep{}P}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2014}}\bblAuthorTitleSep{}\bblFontBookTitle{Enabling
+  Blockchain Innovations with Pegged Sidechains}, 2014.
+\newblock \url{https://blockstream.com/sidechains.pdf} \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{Bergsma \bbland Spronck}(2008)Bergsma \bbland
+  Spronck]{Bergsma.2008}
+\bblFontAuthorInList{Bergsma\bblFirstnameSep{}M\bblAuthorsSep{}Spronck\bblFirstnameSep{}P}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2008}}\bblAuthorTitleSep{}\bblFontBookTitle{Adaptive
+  Spatial Reasoning for Turn-based Strategy Games}.
+\newblock \bblin \bblFontJournalTitle{Proceedings of the Fourth Artificial
+  Intelligence and Interactive Digital Entertainment Conference} 2008:\penalty0
+  161--166.
+\newblock \url{https://www.aaai.org/Papers/AIIDE/2008/AIIDE08-027.pdf}
+  \bblurldate{06.06.2021}
+
+\bibitem[\bblFontAuthorInText{Besancon et~al.}(2019)Besancon, {Da Silva},
+  \bbland Ghodous]{Besancon.2019}
+\bblFontAuthorInList{Besancon\bblFirstnameSep{}L\bblAuthorsSep{}{Da
+  Silva}\bblFirstnameSep{}CF\bblAuthorsSep{}Ghodous\bblFirstnameSep{}P}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2019}}\bblAuthorTitleSep{}\bblFontBookTitle{Towards
+  Blockchain Interoperability: Improving Video Games Data Exchange}.
+\newblock \bblin \bblFontInBookTitle{2019 IEEE International Conference on
+  Blockchain and Cryptocurrency (ICBC)}. IEEE, \bblpp 81--85.
+\newblock \bbldoi{10.1109/BLOC.2019.8751347}
+
+\bibitem[\bblFontAuthorInText{Bethke}(2003)Bethke]{Bethke.2003}
+\bblFontAuthorInList{Bethke\bblFirstnameSep{}E}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2003}}\bblAuthorTitleSep{}\bblFontBookTitle{Game
+  development and production}\bblSeries{Wordware game developer's library.
+\newblock }. {Wordware Pub}, \bblAddress{Plano Tex.}
+\newblock \bblisbn{1556229518}
+
+\bibitem[\bblFontAuthorInText{Bodkhe et~al.}(2020)Bodkhe, Tanwar, Parekh,
+  Khanpara, Tyagi, Kumar, \bbland Alazab]{Bodkhe.2020}
+\bblFontAuthorInList{Bodkhe\bblFirstnameSep{}U\bblAuthorsSep{}Tanwar\bblFirstnameSep{}S\bblAuthorsSep{}Parekh\bblFirstnameSep{}K\bblAuthorsSep{}Khanpara\bblFirstnameSep{}P\bblAuthorsSep{}Tyagi\bblFirstnameSep{}S\bblAuthorsSep{}Kumar\bblFirstnameSep{}N\bblAuthorsSep{}Alazab\bblFirstnameSep{}M}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2020}}\bblAuthorTitleSep{}\bblFontBookTitle{Blockchain
+  for Industry 4.0: A Comprehensive Review}.
+\newblock \bblin \bblFontJournalTitle{IEEE Access} 8:\penalty0 79764--79800.
+\newblock \bbldoi{10.1109/ACCESS.2020.2988579}
+
+\bibitem[\bblFontAuthorInText{Brewer}(2012)Brewer]{Brewer.2012}
+\bblFontAuthorInList{Brewer\bblFirstnameSep{}E}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2012}}\bblAuthorTitleSep{}\bblFontBookTitle{CAP
+  Twelve Years Later: How the ``Rules'' Have Changed}.
+\newblock \bblin \bblFontJournalTitle{IEEE Computer Society} 45\penalty0
+  (2):\penalty0 23--29.
+\newblock \bbldoi{10.1109/MC.2012.37}
+
+\bibitem[\bblFontAuthorInText{Buffa}(1976)Buffa]{Buffa.1976}
+\bblFontAuthorInList{Buffa\bblFirstnameSep{}ES}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{1976}}\bblAuthorTitleSep{}\bblFontBookTitle{Towards
+  a Typology of Production and Operations Management Systems}.
+\newblock \bblin \bblFontJournalTitle{Wiley, NewYork} 8\penalty0 (3).
+\newblock \bbldoi{10.5465/amr.1983.4284369}
+
+\bibitem[\bblFontAuthorInText{Butijn et~al.}(2020)Butijn, Tamburri, \bbland
+  {van den Heuvel}]{Butijn.2020}
+\bblFontAuthorInList{Butijn\bblFirstnameSep{}BJ\bblAuthorsSep{}Tamburri\bblFirstnameSep{}DA\bblAuthorsSep{}{van
+  den
+  Heuvel}\bblFirstnameSep{}WJ}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2020}}\bblAuthorTitleSep{}\bblFontBookTitle{Blockchains:
+  A Systematic Multivocal Literature Review}.
+\newblock \bblin \bblFontJournalTitle{ACM Computing Surveys} 53\penalty0
+  (3):\penalty0 1--37.
+\newblock \bbldoi{10.1145/3369052}
+
+\bibitem[\bblFontAuthorInText{Bux}(1989)Bux]{Bux.1989}
+\bblFontAuthorInList{Bux\bblFirstnameSep{}W}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{1989}}\bblAuthorTitleSep{}\bblFontBookTitle{Token-Ring
+  Local-Area Networks and Their Performance}.
+\newblock \bblin \bblFontJournalTitle{Proceedings of the IEEE} 1989\penalty0
+  (77):\penalty0 238--256.
+\newblock \bbldoi{10.1109/5.18625}
+
+\bibitem[\bblFontAuthorInText{By}(2011)By]{By.2011}
+\bblFontAuthorInList{By\bblFirstnameSep{}T}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2011}}\bblAuthorTitleSep{}\bblFontBookTitle{Formalizing
+  Game-play}.
+\newblock \bblin \bblFontJournalTitle{Simulation {\&} Gaming} 2011:\penalty0
+  1--31.
+\newblock \bbldoi{10.1177/1046878110388239}
+
+\bibitem[\bblFontAuthorInText{Castro \bbland Liskov}(2002)Castro \bbland
+  Liskov]{Castro.2002}
+\bblFontAuthorInList{Castro\bblFirstnameSep{}M\bblAuthorsSep{}Liskov\bblFirstnameSep{}B}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2002}}\bblAuthorTitleSep{}\bblFontBookTitle{Practical
+  Byzantine Fault Tolerance and Proactive Recovery}.
+\newblock \bblin \bblFontJournalTitle{ACM Transactions on Computer Systems}
+  20\penalty0 (4):\penalty0 398--461.
+\newblock \bbldoi{10.1145/571637.571640}
+
+\bibitem[\bblFontAuthorInText{Catalini \bbland Gans}(2016)Catalini \bbland
+  Gans]{Catalini.2016}
+\bblFontAuthorInList{Catalini\bblFirstnameSep{}C\bblAuthorsSep{}Gans\bblFirstnameSep{}JS}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2016}}\bblAuthorTitleSep{}\bblFontBookTitle{Some
+  Simple Economics of the Blockchain}.
+\newblock \bblin \bblFontJournalTitle{NATIONAL BUREAU OF ECONOMIC RESEARCH}
+  2016:\penalty0 1--28.
+\newblock \bbldoi{10.3386/w22952}
+
+\bibitem[\bblFontAuthorInText{Charron-Bost \bbland Schiper}(2009)Charron-Bost
+  \bbland Schiper]{CharronBost.2009}
+\bblFontAuthorInList{Charron-Bost\bblFirstnameSep{}B\bblAuthorsSep{}Schiper\bblFirstnameSep{}A}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2009}}\bblAuthorTitleSep{}\bblFontBookTitle{The
+  Heard-Of model: computing in distributed systems with benign faults}.
+\newblock \bblin \bblFontJournalTitle{Distributed Computing} 22\penalty0
+  (1):\penalty0 49--71.
+\newblock \bbldoi{10.1007/s00446-009-0084-6}
+
+\bibitem[\bblFontAuthorInText{Chatterjee et~al.}(2019)Chatterjee, Goharshady,
+  \bbland Pourdamghani]{Chatterjee.2019}
+\bblFontAuthorInList{Chatterjee\bblFirstnameSep{}K\bblAuthorsSep{}Goharshady\bblFirstnameSep{}AK\bblAuthorsSep{}Pourdamghani\bblFirstnameSep{}A}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2019}}\bblAuthorTitleSep{}\bblFontBookTitle{Probabilistic
+  Smart Contracts: Secure Randomness on the Blockchain}.
+\newblock \bblin \bblFontInBookTitle{2019 IEEE International Conference on
+  Blockchain and Cryptocurrency (ICBC)}. IEEE, \bblpp 403--412.
+\newblock \bbldoi{10.1109/BLOC.2019.8751326}
+
+\bibitem[\bblFontAuthorInText{Chaudhry \bbland Yousaf}(2018)Chaudhry \bbland
+  Yousaf]{Chaudhry.2018}
+\bblFontAuthorInList{Chaudhry\bblFirstnameSep{}N\bblAuthorsSep{}Yousaf\bblFirstnameSep{}MM}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2018}}\bblAuthorTitleSep{}\bblFontBookTitle{Consensus
+  Algorithms in Blockchain: Comparative Analysis, Challenges and
+  Opportunities}.
+\newblock \bblin \bblFontInBookTitle{2018 12th International Conference on Open
+  Source Systems and Technologies (ICOSST)}. IEEE, \bblpp 54--63.
+\newblock \bbldoi{10.1109/ICOSST.2018.8632190}
+
+\bibitem[\bblFontAuthorInText{Courtois}(2014)Courtois]{Courtois.2014}
+\bblFontAuthorInList{Courtois\bblFirstnameSep{}NT}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2014}}\bblAuthorTitleSep{}\bblFontBookTitle{On
+  The Longest Chain Rule and Programmed Self-Destruction of Crypto Currencies},
+  2014.
+\newblock \url{http://arxiv.org/pdf/1405.0534v11} \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{CryptoKitties.co}(2021)CryptoKitties.co]{CryptoKitties.co.2021}
+\bblFontAuthorInList{CryptoKitties.co\bblFirstnameSep{}}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2021}}\bblAuthorTitleSep{}\bblFontBookTitle{Collectibles
+  game store: On Sale}, 2021.
+\newblock \url{https://www.cryptokitties.co/search?include=sale}
+  \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{Daniel \bbland Guida}(2019)Daniel \bbland
+  Guida]{Daniel.2019}
+\bblFontAuthorInList{Daniel\bblFirstnameSep{}F\bblAuthorsSep{}Guida\bblFirstnameSep{}L}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2019}}\bblAuthorTitleSep{}\bblFontBookTitle{A
+  Service-Oriented Perspective on Blockchain Smart Contracts}.
+\newblock \bblin \bblFontJournalTitle{IEEE Internet Computing} 23\penalty0
+  (1):\penalty0 46--53.
+\newblock \bbldoi{10.1109/MIC.2018.2890624}
+
+\bibitem[\bblFontAuthorInText{Danzi et~al.}(52018)Danzi, Kalor, Stefanovic,
+  \bbland Popovski]{Danzi.52018}
+\bblFontAuthorInList{Danzi\bblFirstnameSep{}P\bblAuthorsSep{}Kalor\bblFirstnameSep{}AE\bblAuthorsSep{}Stefanovic\bblFirstnameSep{}C\bblAuthorsSep{}Popovski\bblFirstnameSep{}P}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{52018}}\bblAuthorTitleSep{}\bblFontBookTitle{Analysis
+  of the Communication Traffic for Blockchain Synchronization of IoT Devices}.
+\newblock \bblin \bblFontInBookTitle{2018 IEEE International Conference on
+  Communications (ICC)}. IEEE, \bblpp 1--7.
+\newblock \bbldoi{10.1109/ICC.2018.8422485}
+
+\bibitem[\bblFontAuthorInText{Davis \bbland Lang}(2012)Davis \bbland
+  Lang]{Davis.2012}
+\bblFontAuthorInList{Davis\bblFirstnameSep{}R\bblAuthorsSep{}Lang\bblFirstnameSep{}B}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2012}}\bblAuthorTitleSep{}\bblFontBookTitle{Modeling
+  game usage, purchase behavior and ease of use}.
+\newblock \bblin \bblFontJournalTitle{Entertainment Computing} 3\penalty0
+  (2):\penalty0 27--36.
+\newblock \bbldoi{10.1016/j.entcom.2011.11.001}
+
+\bibitem[\bblFontAuthorInText{de~Angelis et~al.}(2018)de~Angelis, Aniello,
+  Baldoni, Lombardi, {Margheri A.}, \bbland Sassone]{Angelis.2018}
+\bblFontAuthorInList{de~Angelis\bblFirstnameSep{}S\bblAuthorsSep{}Aniello\bblFirstnameSep{}L\bblAuthorsSep{}Baldoni\bblFirstnameSep{}R\bblAuthorsSep{}Lombardi\bblFirstnameSep{}F\bblAuthorsSep{}{Margheri
+  A.}\bblFirstnameSep{}\bblAuthorsSep{}Sassone\bblFirstnameSep{}V}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2018}}\bblAuthorTitleSep{}\bblFontBookTitle{PBFT
+  vs Proof-of-Authority: Applying the CAP Theorem to Permissioned Blockchain},
+  2018.
+\newblock \url{https://eprints.soton.ac.uk/415083/2/itasec18_main.pdf}
+  \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{decentraland.org}(2021)decentraland.org]{decentraland.org.2021}
+\bblFontAuthorInList{decentraland.org\bblFirstnameSep{}}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2021}}\bblAuthorTitleSep{}\bblFontBookTitle{Decentraland},
+  2021.
+\newblock \url{https://decentraland.org/} \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{Demi et~al.}(2021)Demi, Colomo-Palacios, \bbland
+  S{\'a}nchez-Gord{\'o}n]{Demi.2021}
+\bblFontAuthorInList{Demi\bblFirstnameSep{}S\bblAuthorsSep{}Colomo-Palacios\bblFirstnameSep{}R\bblAuthorsSep{}S{\'a}nchez-Gord{\'o}n\bblFirstnameSep{}M}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2021}}\bblAuthorTitleSep{}\bblFontBookTitle{Software
+  Engineering Applications Enabled by Blockchain Technology: A Systematic
+  Mapping Study}.
+\newblock \bblin \bblFontJournalTitle{Applied Sciences} 11\penalty0
+  (7):\penalty0 2960.
+\newblock \bbldoi{10.3390/app11072960}
+
+\bibitem[\bblFontAuthorInText{Deswarte et~al.}(2004)Deswarte, Quisquater,
+  \bbland Sa{\"i}dane]{Deswarte.2004}
+\bblFontAuthorInList{Deswarte\bblFirstnameSep{}Y\bblAuthorsSep{}Quisquater\bblFirstnameSep{}JJ\bblAuthorsSep{}Sa{\"i}dane\bblFirstnameSep{}A}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2004}}\bblAuthorTitleSep{}\bblFontBookTitle{Remote
+  Integrity Checking}.
+\newblock \bblin
+  Jajodia\bblFirstnameSep{}S\bblAuthorsSep{}Strous\bblFirstnameSep{}L\bbleds\bblAuthorTitleSepInEd{}\bblFontInBookTitle{Integrity
+  and Internal Control in Information Systems VI}\bblVolumeOfSeries{140}{IFIP
+  International Federation for Information Processing}, \bblpp 1--11. {Kluwer
+  Academic Publishers}, \bblAddress{Boston}.
+\newblock \bbldoi{10.1007/1-4020-7901-X_1}
+
+\bibitem[\bblFontAuthorInText{Dib et~al.}(2018)Dib, Brousmiche, Durand, Thea,
+  \bbland Hamida]{Dib.2018}
+\bblFontAuthorInList{Dib\bblFirstnameSep{}O\bblAuthorsSep{}Brousmiche\bblFirstnameSep{}KL\bblAuthorsSep{}Durand\bblFirstnameSep{}A\bblAuthorsSep{}Thea\bblFirstnameSep{}E\bblAuthorsSep{}Hamida\bblFirstnameSep{}EB}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2018}}\bblAuthorTitleSep{}\bblFontBookTitle{Consortium
+  Blockchains: Overview, Applications and Challenges}.
+\newblock \bblin \bblFontJournalTitle{International Journal on Advances in
+  Telecommunications} 2018:\penalty0 51--64.
+\newblock \url{https://www.researchgate.net/publication/328887130}
+  \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{Douceur}(2002)Douceur]{Douceur.2002}
+\bblFontAuthorInList{Douceur\bblFirstnameSep{}JR}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2002}}\bblAuthorTitleSep{}\bblFontBookTitle{The
+  Sybil Attack}.
+\newblock \bblin \bblFontJournalTitle{International workshop on peer-to-peer
+  systems} 2002:\penalty0 251--260.
+\newblock \bbldoi{10.1007/3-540-45748-8_24}
+
+\bibitem[\bblFontAuthorInText{Ergen et~al.}(2004)Ergen, Lee, Sengupta, \bbland
+  Varaiya]{Ergen.2004}
+\bblFontAuthorInList{Ergen\bblFirstnameSep{}M\bblAuthorsSep{}Lee\bblFirstnameSep{}D\bblAuthorsSep{}Sengupta\bblFirstnameSep{}R\bblAuthorsSep{}Varaiya\bblFirstnameSep{}P}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2004}}\bblAuthorTitleSep{}\bblFontBookTitle{WTRP---Wireless
+  Token Ring Protocol}.
+\newblock \bblin \bblFontJournalTitle{IEEE Transactions on Vehicular
+  Technology} 53\penalty0 (6):\penalty0 1863--1881.
+\newblock \bbldoi{10.1109/TVT.2004.836928}
+
+\bibitem[\bblFontAuthorInText{Ewerhart}(2020)Ewerhart]{Ewerhart.2020}
+\bblFontAuthorInList{Ewerhart\bblFirstnameSep{}C}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2020}}\bblAuthorTitleSep{}\bblFontBookTitle{Finite
+  blockchain games}.
+\newblock \bblin \bblFontJournalTitle{Economics Letters} 197:\penalty0 109614.
+\newblock \bbldoi{10.1016/j.econlet.2020.109614}
+
+\bibitem[\bblFontAuthorInText{{Finlow-Bates K.}}(2017){Finlow-Bates
+  K.}]{FinlowBatesK..2017}
+\bblFontAuthorInList{{Finlow-Bates
+  K.}\bblFirstnameSep{}}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2017}}\bblAuthorTitleSep{}\bblFontBookTitle{Adding
+  Trust to CAP: Blockchain as a Strong Eventual Consistency Recovery Strategy},
+  2017.
+\newblock
+  \url{https://www.chainfrog.com/wp-content/uploads/2017/09/CAP-paper.pdf}
+  \bblurldate{11.006.2021}
+
+\bibitem[\bblFontAuthorInText{Forouzan}(2003)Forouzan]{Forouzan.2003}
+\bblFontAuthorInList{Forouzan\bblFirstnameSep{}BA}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2003}}\bblAuthorTitleSep{}\bblFontBookTitle{TCP/IP
+  Protocol Suite}.
+\newblock {McGraw Hill}.
+\newblock \url{https://dl.acm.org/doi/abs/10.5555/572565}
+
+\bibitem[\bblFontAuthorInText{Gainsbury \bbland Blaszczynski}(2017)Gainsbury
+  \bbland Blaszczynski]{Gainsbury.2017}
+\bblFontAuthorInList{Gainsbury\bblFirstnameSep{}SM\bblAuthorsSep{}Blaszczynski\bblFirstnameSep{}A}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2017}}\bblAuthorTitleSep{}\bblFontBookTitle{HOW
+  BLOCKCHAIN AND CRYPTOCURRENCY TECHNOLOGY COULD REVOLUTIONIZE ONLINE
+  GAMBLING}.
+\newblock \bblin \bblFontJournalTitle{Gaming Law Review} 21\penalty0
+  (7):\penalty0 482--492.
+\newblock \bbldoi{10.1089/glr2.2017.2174}
+
+\bibitem[\bblFontAuthorInText{Gamesetwatch.com}(2014)Gamesetwatch.com]{Gamesetwatch.com.2014}
+\bblFontAuthorInList{Gamesetwatch.com\bblFirstnameSep{}}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2014}}\bblAuthorTitleSep{}\bblFontBookTitle{Gamasutra
+  Salary Survey 2014}, 2014.
+\newblock
+  \url{http://www.gamesetwatch.com/2014/09/05/GAMA14_ACG_SalarySurvey_F.pdf}
+  \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{Goebel \bbland Krzesinski}(2017)Goebel \bbland
+  Krzesinski]{Goebel.2017}
+\bblFontAuthorInList{Goebel\bblFirstnameSep{}J\bblAuthorsSep{}Krzesinski\bblFirstnameSep{}AE}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2017}}\bblAuthorTitleSep{}\bblFontBookTitle{Increased
+  block size and Bitcoin blockchain dynamics}.
+\newblock IEEE, \bblAddress{Piscataway, NJ}.
+\newblock \bbldoi{10.1109/ATNAC.2017.8215367}
+
+\bibitem[\bblFontAuthorInText{Gramoli}(2017)Gramoli]{Gramoli.2017}
+\bblFontAuthorInList{Gramoli\bblFirstnameSep{}V}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2017}}\bblAuthorTitleSep{}\bblFontBookTitle{From
+  blockchain consensus back to Byzantine consensus}.
+\newblock \bblin \bblFontJournalTitle{Future Generation Computer Systems}
+  107:\penalty0 760--769.
+\newblock \bbldoi{10.1016/j.future.2017.09.023}
+
+\bibitem[\bblFontAuthorInText{Greenspan}(2015)Greenspan]{Greenspan.2015}
+\bblFontAuthorInList{Greenspan\bblFirstnameSep{}G}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2015}}\bblAuthorTitleSep{}\bblFontBookTitle{MultiChain
+  Private Blockchain: White Paper}, 2015.
+\newblock \url{https://www.multichain.com/download/MultiChain-White-Paper.pdf}
+  \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{Haeberlen et~al.}(2010)Haeberlen, Aditya,
+  Rodrigues, \bbland Druschel]{HAEBERLEN.2010}
+\bblFontAuthorInList{Haeberlen\bblFirstnameSep{}A\bblAuthorsSep{}Aditya\bblFirstnameSep{}P\bblAuthorsSep{}Rodrigues\bblFirstnameSep{}R\bblAuthorsSep{}Druschel\bblFirstnameSep{}P}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2010}}\bblAuthorTitleSep{}\bblFontBookTitle{Accountable
+  Virtual Machines}.
+\newblock \bblin \bblFontJournalTitle{In Proceedings of the 9th Symposium on
+  Operating Systems Design and Implementation} 2010.
+\newblock
+  \url{https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Haeberlen.pdf}
+
+\bibitem[\bblFontAuthorInText{Hagelb{\"a}ck \bbland
+  Johansson}(2008)Hagelb{\"a}ck \bbland Johansson]{Hagelback.2008}
+\bblFontAuthorInList{Hagelb{\"a}ck\bblFirstnameSep{}J\bblAuthorsSep{}Johansson\bblFirstnameSep{}SJ}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2008}}\bblAuthorTitleSep{}\bblFontBookTitle{Dealing
+  with Fog of War in a Real Time Strategy Game Environment}.
+\newblock \bblin \bblFontJournalTitle{2008 IEEE Symposium on Computational
+  Intelligence and Games (CIG'08)} \bblpp 55--62.
+\newblock \bbldoi{10.1109/CIG.2008.5035621}
+
+\bibitem[\bblFontAuthorInText{Harkanson et~al.}(2020)Harkanson, Chiu, Kim,
+  \bbland Jo]{Harkanson.2020}
+\bblFontAuthorInList{Harkanson\bblFirstnameSep{}R\bblAuthorsSep{}Chiu\bblFirstnameSep{}C\bblAuthorsSep{}Kim\bblFirstnameSep{}Y\bblAuthorsSep{}Jo\bblFirstnameSep{}JY}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2020}}\bblAuthorTitleSep{}\bblFontBookTitle{A
+  Framework for Decentralized Private Random State Generation and Maintenance
+  for Multiplayer Gaming Over Blockchain}.
+\newblock \bblin \bblFontInBookTitle{2020 IEEE 44th Annual Computers, Software,
+  and Applications Conference (COMPSAC)}. IEEE, \bblpp 483--488.
+\newblock \bbldoi{10.1109/COMPSAC48688.2020.0-205}
+
+\bibitem[\bblFontAuthorInText{Hasbro}(2021)Hasbro]{Hasbro.2021}
+\bblFontAuthorInList{Hasbro\bblFirstnameSep{}}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2021}}\bblAuthorTitleSep{}\bblFontBookTitle{Risiko},
+  2021.
+\newblock
+  \url{https://products.hasbro.com/de-de/product/risk-game:2C7C6F52-5056-9047-F5DD-EB8AC273BA4C}
+  \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{Hu et~al.}(2005)Hu, Jakobsson, \bbland
+  Perrig]{Hu.2005}
+\bblFontAuthorInList{Hu\bblFirstnameSep{}YC\bblAuthorsSep{}Jakobsson\bblFirstnameSep{}M\bblAuthorsSep{}Perrig\bblFirstnameSep{}A}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2005}}\bblAuthorTitleSep{}\bblFontBookTitle{Efficient
+  Constructions for One-Way Hash Chains}.
+\newblock \bblin
+  Ioannidis\bblFirstnameSep{}J\bblAuthorsSep{}Keromytis\bblFirstnameSep{}A\bblAuthorsSep{}Yung\bblFirstnameSep{}M\bbleds\bblAuthorTitleSepInEd{}\bblFontInBookTitle{Applied
+  cryptography and network security}, \bblpp 423--441. Springer,
+  \bblAddress{Berlin and New York}.
+\newblock \bblisbn{3540262237}.
+\newblock \url{https://link.springer.com/chapter/10.1007/11496137_29}
+
+\bibitem[\bblFontAuthorInText{itch.io}(2021)itch.io]{itch.io.2021}
+\bblFontAuthorInList{itch.io\bblFirstnameSep{}}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2021}}\bblAuthorTitleSep{}\bblFontBookTitle{Top
+  games for Android with server-based network multiplayer}, 2021.
+\newblock \url{https://itch.io/games/multiplayer-server/platform-android}
+  \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{Johnson et~al.}(2014)Johnson, Laszka, Grossklags,
+  Vasek, \bbland Moore]{Johnson.2014}
+\bblFontAuthorInList{Johnson\bblFirstnameSep{}B\bblAuthorsSep{}Laszka\bblFirstnameSep{}A\bblAuthorsSep{}Grossklags\bblFirstnameSep{}J\bblAuthorsSep{}Vasek\bblFirstnameSep{}M\bblAuthorsSep{}Moore\bblFirstnameSep{}T}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2014}}\bblAuthorTitleSep{}\bblFontBookTitle{Game-Theoretic
+  Analysis of DDoS Attacks Against Bitcoin Mining Pools}.
+\newblock \bblin
+  B{\"o}hme\bblFirstnameSep{}R\bblAuthorsSep{}Brenner\bblFirstnameSep{}M\bblAuthorsSep{}Moore\bblFirstnameSep{}T\bblAuthorsSep{}Smith\bblFirstnameSep{}M\bbleds\bblAuthorTitleSepInEd{}\bblFontInBookTitle{Financial
+  Cryptography and Data Security}, \bblpp 72--85. {Springer Berlin Heidelberg},
+  \bblAddress{Berlin, Heidelberg}.
+\newblock \bblisbn{978-3-662-44773-4}.
+\newblock \url{https://link.springer.com/chapter/10.1007/978-3-662-44774-1_6}
+
+\bibitem[\bblFontAuthorInText{Karafiloski \bbland Mishev}(2017)Karafiloski
+  \bbland Mishev]{Karafiloski.2017}
+\bblFontAuthorInList{Karafiloski\bblFirstnameSep{}E\bblAuthorsSep{}Mishev\bblFirstnameSep{}A}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2017}}\bblAuthorTitleSep{}\bblFontBookTitle{Blockchain
+  Solutions for Big Data Challenges}.
+\newblock \bblin
+  Karadzinov\bblFirstnameSep{}L\bbled\bblAuthorTitleSepInEd{}\bblFontInBookTitle{IEEE
+  EUROCON 2017}, \bblpp 763--768. IEEE, \bblAddress{Piscataway, NJ}.
+\newblock \bbldoi{10.1109/EUROCON.2017.8011213}
+
+\bibitem[\bblFontAuthorInText{Kejiao et~al.}(2017)Kejiao, Hui, Hanxu, Kedan,
+  \bbland Yongle]{Kejiao.2017}
+\bblFontAuthorInList{Kejiao\bblFirstnameSep{}L\bblAuthorsSep{}Hui\bblFirstnameSep{}L\bblAuthorsSep{}Hanxu\bblFirstnameSep{}H\bblAuthorsSep{}Kedan\bblFirstnameSep{}L\bblAuthorsSep{}Yongle\bblFirstnameSep{}C}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2017}}\bblAuthorTitleSep{}\bblFontBookTitle{Proof
+  of Vote: A High-Performance Consensus Protocol Based on Vote Mechanism {\&}
+  Consortium Blockchain}.
+\newblock \bblin \bblFontJournalTitle{2017 IEEE 19th International Conference
+  on High Performance Computing and Communications; IEEE 15th International
+  Conference on Smart City; IEEE 3rd International Conference on Data Science
+  and Systems} 2017:\penalty0 466--473.
+\newblock \bbldoi{10.1109/HPCC-SmartCity-DSS.2017.61}
+
+\bibitem[\bblFontAuthorInText{Khan et~al.}(2020)Khan, Jung, Hashmani, \bbland
+  Waqas]{Khan.2020}
+\bblFontAuthorInList{Khan\bblFirstnameSep{}D\bblAuthorsSep{}Jung\bblFirstnameSep{}LT\bblAuthorsSep{}Hashmani\bblFirstnameSep{}MA\bblAuthorsSep{}Waqas\bblFirstnameSep{}A}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2020}}\bblAuthorTitleSep{}\bblFontBookTitle{A
+  Critical Review of Blockchain Consensus Model}.
+\newblock \bblin \bblFontJournalTitle{2020 3rd International Conference on
+  Computing, Mathematics and Engineering Technologies (iCoMET).} \bblpp 1--6.
+\newblock \bbldoi{10.1109/iCoMET48670.2020.9074107}
+
+\bibitem[\bblFontAuthorInText{Khan}(2006)Khan]{Khan.2006}
+\bblFontAuthorInList{Khan\bblFirstnameSep{}N}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2006}}\bblAuthorTitleSep{}\bblFontBookTitle{A
+  Distributed Server Architecture for Massively Multiplayer Online Games},
+  2006.
+\newblock
+  \url{https://central.bac-lac.gc.ca/.item?id=TC-QMM-101150&op=pdf&app=Library&oclc_number=892079085}
+  \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{Kim et~al.}(2018)Kim, Kwon, \bbland
+  Cho]{Kim.2018}
+\bblFontAuthorInList{Kim\bblFirstnameSep{}S\bblAuthorsSep{}Kwon\bblFirstnameSep{}Y\bblAuthorsSep{}Cho\bblFirstnameSep{}S}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2018}}\bblAuthorTitleSep{}\bblFontBookTitle{A
+  Survey of Scalability Solutions on Blockchain}.
+\newblock \bblin \bblFontJournalTitle{2018 International Conference on
+  Information and Communication Technology Convergence (ICTC)} \bblpp
+  1204--1207.
+\newblock \bbldoi{10.1109/ICTC.2018.8539529}
+
+\bibitem[\bblFontAuthorInText{King \bbland Nadal}(2012)King \bbland
+  Nadal]{King.2012}
+\bblFontAuthorInList{King\bblFirstnameSep{}S\bblAuthorsSep{}Nadal\bblFirstnameSep{}S}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2012}}\bblAuthorTitleSep{}\bblFontBookTitle{PPCoin:
+  Peer-to-Peer Crypto-Currency with Proof-of-Stake}, 2012.
+\newblock
+  \url{https://www.chainwhy.com/upload/default/20180619/126a057fef926dc286accb372da46955.pdf}
+  \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{Komiya \bbland Nakajima}(2019)Komiya \bbland
+  Nakajima]{Komiya.2019}
+\bblFontAuthorInList{Komiya\bblFirstnameSep{}K\bblAuthorsSep{}Nakajima\bblFirstnameSep{}T}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2019}}\bblAuthorTitleSep{}\bblFontBookTitle{Increasing
+  Motivation for Playing Blockchain Games Using Proof-of-Achievement
+  Algorithm}.
+\newblock \bblin {Fang
+  X.}\bblFirstnameSep{}\bbled\bblAuthorTitleSepInEd{}\bblFontInBookTitle{Increasing
+  Motivation for Playing Blockchain Games Using Proof-of-Achievement
+  Algorithm}, \bblpp 125--140. {Springer International Publishing},
+  \bblAddress{Cham}.
+\newblock \bblisbn{978-3-030-22601-5}.
+\newblock
+  \url{https://link.springer.com/content/pdf/10.1007%2F978-3-030-22602-2_11.pdf}
+
+\bibitem[\bblFontAuthorInText{{Kooistra J.}}(2018){Kooistra
+  J.}]{KooistraJ..2018}
+\bblFontAuthorInList{{Kooistra
+  J.}\bblFirstnameSep{}}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2018}}\bblAuthorTitleSep{}\bblFontBookTitle{The
+  State of the Battle Royale Genre}, 2018.
+\newblock
+  \url{https://resources.newzoo.com/hubfs/Reports/Newzoo_The_Rise_of_the_Battle_Royale_Genre.pdf}
+  \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{Koster}(2018)Koster]{Koster.2018}
+\bblFontAuthorInList{Koster\bblFirstnameSep{}R}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2018}}\bblAuthorTitleSep{}\bblFontBookTitle{The
+  cost of games}, 2018.
+\newblock \url{https://www.raphkoster.com/2018/01/17/the-cost-of-games/}
+  \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{Kraft}(2016)Kraft]{Kraft.2016}
+\bblFontAuthorInList{Kraft\bblFirstnameSep{}D}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2016}}\bblAuthorTitleSep{}\bblFontBookTitle{Game
+  Channels for Trustless Off-Chain Interactions in Decentralized Virtual
+  Worlds}.
+\newblock \bblin \bblFontJournalTitle{Ledger} 1:\penalty0 84--98.
+\newblock \bbldoi{10.5195/ledger.2016.15}
+
+\bibitem[\bblFontAuthorInText{Kwon}(2014)Kwon]{Kwon.2014}
+\bblFontAuthorInList{Kwon\bblFirstnameSep{}J}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2014}}\bblAuthorTitleSep{}\bblFontBookTitle{Tendermint:
+  Consensus without Mining}, 2014.
+\newblock
+  \url{https://www.weusecoins.com/assets/pdf/library/Tendermint%20Consensus%20without%20Mining.pdf}
+  \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{Laneve \bbland Ershov}(2019)Laneve \bbland
+  Ershov]{Laneve.2019}
+\bblFontAuthorInList{Laneve\bblFirstnameSep{}C\bblAuthorsSep{}Ershov\bblFirstnameSep{}I}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2019}}\bblAuthorTitleSep{}\bblFontBookTitle{Blockchain
+  gaming: An analysis of the use of blockchain technology in the video gaming
+  industry}, 2019.
+\newblock \url{https://amslaurea.unibo.it/20533/1/ershov_igor_tesi.pdf}
+  \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{Lee et~al.}(2020)Lee, Lin, Bezemer, \bbland
+  Hassan]{Lee.2020}
+\bblFontAuthorInList{Lee\bblFirstnameSep{}D\bblAuthorsSep{}Lin\bblFirstnameSep{}D\bblAuthorsSep{}Bezemer\bblFirstnameSep{}CP\bblAuthorsSep{}Hassan\bblFirstnameSep{}AE}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2020}}\bblAuthorTitleSep{}\bblFontBookTitle{Building
+  the perfect game -- an empirical study of game modifications}.
+\newblock \bblin \bblFontJournalTitle{Empirical Software Engineering}
+  25\penalty0 (4):\penalty0 2485--2518.
+\newblock \bbldoi{10.1007/s10664-019-09783-w}
+
+\bibitem[\bblFontAuthorInText{Lee et~al.}(2008)Lee, Agarwal, Butcher, \bbland
+  Padhye]{Lee.2008}
+\bblFontAuthorInList{Lee\bblFirstnameSep{}Y\bblAuthorsSep{}Agarwal\bblFirstnameSep{}S\bblAuthorsSep{}Butcher\bblFirstnameSep{}C\bblAuthorsSep{}Padhye\bblFirstnameSep{}J}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2008}}\bblAuthorTitleSep{}\bblFontBookTitle{Measurement
+  and Estimation of Network QoS Among Peer Xbox 360 Game Players}.
+\newblock \bblin
+  Claypool\bblFirstnameSep{}M\bblAuthorsSep{}Uhlig\bblFirstnameSep{}S\bbleds\bblAuthorTitleSepInEd{}\bblFontInBookTitle{Passive
+  and Active Network Measurement}\bblVolumeOfSeries{4979}{Lecture Notes in
+  Computer Science}, \bblpp 41--50. {Springer Berlin Heidelberg},
+  \bblAddress{Berlin, Heidelberg}.
+\newblock \bbldoi{10.1007/978-3-540-79232-1_5}
+
+\bibitem[\bblFontAuthorInText{Li et~al.}(2014)Li, Goh, Cavusoglu, \bbland
+  Jindal]{Li.2014}
+\bblFontAuthorInList{Li\bblFirstnameSep{}M\bblAuthorsSep{}Goh\bblFirstnameSep{}KY\bblAuthorsSep{}Cavusoglu\bblFirstnameSep{}H\bblAuthorsSep{}Jindal\bblFirstnameSep{}N}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2014}}\bblAuthorTitleSep{}\bblFontBookTitle{WHAT
+  IS IT IN A NAME? AN EMPIRICAL EXAMINATION OF BRAND IMITATION IN MOBILE APP
+  MARKET}.
+\newblock \bblin \bblFontJournalTitle{Pacific Asia Journal of the Association
+  for Information Systems} 2014.
+\newblock \url{http://www.pacis-net.org/file/2014/2121.pdf}
+
+\bibitem[\bblFontAuthorInText{{Limelight Networks}}(2020){Limelight
+  Networks}]{LimelightNetworks.2020}
+\bblFontAuthorInList{{Limelight
+  Networks}\bblFirstnameSep{}}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2020}}\bblAuthorTitleSep{}\bblFontBookTitle{The
+  State of Online Gaming - 2020: Market Research}, 2020.
+\newblock
+  \url{https://www.limelight.com/resources/white-paper/state-of-online-gaming-2020}
+  \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{Lin \bbland Liao}(2017)Lin \bbland
+  Liao]{Lin.2017}
+\bblFontAuthorInList{Lin\bblFirstnameSep{}IC\bblAuthorsSep{}Liao\bblFirstnameSep{}TC}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2017}}\bblAuthorTitleSep{}\bblFontBookTitle{A
+  Survey of Blockchain Security Issues and Challenges}.
+\newblock \bblin \bblFontJournalTitle{International Journal of Network
+  Security,} 2017\penalty0 (5):\penalty0 653--659.
+\newblock \bbldoi{10.6633/IJNS.201709.19(5).01}
+
+\bibitem[\bblFontAuthorInText{Liu et~al.}(2018)Liu, Yu, Teng, Leung, \bbland
+  Song]{Liu.2018}
+\bblFontAuthorInList{Liu\bblFirstnameSep{}M\bblAuthorsSep{}Yu\bblFirstnameSep{}FR\bblAuthorsSep{}Teng\bblFirstnameSep{}Y\bblAuthorsSep{}Leung\bblFirstnameSep{}VCM\bblAuthorsSep{}Song\bblFirstnameSep{}M}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2018}}\bblAuthorTitleSep{}\bblFontBookTitle{Computation
+  Offloading and Content Caching in Wireless Blockchain Networks With Mobile
+  Edge Computing}.
+\newblock \bblin \bblFontJournalTitle{IEEE Transactions on Vehicular
+  Technology} 67\penalty0 (11):\penalty0 11008--11021.
+\newblock \bbldoi{10.1109/TVT.2018.2866365}
+
+\bibitem[\bblFontAuthorInText{lostrelics.io}(2021)lostrelics.io]{lostrelics.io.2021}
+\bblFontAuthorInList{lostrelics.io\bblFirstnameSep{}}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2021}}\bblAuthorTitleSep{}\bblFontBookTitle{Lost
+  Relics}, 2021.
+\newblock \url{https://lostrelics.io/} \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{Lowell et~al.}(2004)Lowell, Saito, \bbland
+  Samberg]{Lowell.2004}
+\bblFontAuthorInList{Lowell\bblFirstnameSep{}DE\bblAuthorsSep{}Saito\bblFirstnameSep{}Y\bblAuthorsSep{}Samberg\bblFirstnameSep{}EJ}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2004}}\bblAuthorTitleSep{}\bblFontBookTitle{Devirtualizable
+  Virtual Machines: Enabling General, Single-Node, Online Maintenance}.
+\newblock \bblin \bblFontInBookTitle{ASPLOS XI}, \bblpp 211--223. {Association
+  for Computing Machinery}, \bblAddress{New York N.Y.}
+\newblock \bbldoi{10.1145/1037947.1024419}
+
+\bibitem[\bblFontAuthorInText{Ma et~al.}(2020)Ma, Ge, \bbland Zhou]{Ma.2020}
+\bblFontAuthorInList{Ma\bblFirstnameSep{}G\bblAuthorsSep{}Ge\bblFirstnameSep{}C\bblAuthorsSep{}Zhou\bblFirstnameSep{}L}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2020}}\bblAuthorTitleSep{}\bblFontBookTitle{Achieving
+  reliable timestamp in the bitcoin platform}.
+\newblock \bblin \bblFontJournalTitle{Peer-to-Peer Networking and Applications}
+  13\penalty0 (6):\penalty0 2251--2259.
+\newblock \bbldoi{10.1007/s12083-020-00905-6}
+
+\bibitem[\bblFontAuthorInText{magic.wizards.com}(2021)magic.wizards.com]{magic.wizards.com.2021}
+\bblFontAuthorInList{magic.wizards.com\bblFirstnameSep{}}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2021}}\bblAuthorTitleSep{}\bblFontBookTitle{Magic:
+  The Gathering Arena}, 2021.
+\newblock \url{https://magic.wizards.com/en/mtgarena} \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{Maister}(1984)Maister]{Maister.1984}
+\bblFontAuthorInList{Maister\bblFirstnameSep{}DH}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{1984}}\bblAuthorTitleSep{}\bblFontBookTitle{The
+  Psychology of Waiting Lines}, 1984.
+\newblock
+  \url{https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.487.3938&rep=rep1&type=pdf}
+  \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{Mann}(2000)Mann]{Mann.2000}
+\bblFontAuthorInList{Mann\bblFirstnameSep{}CC}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2000}}\bblAuthorTitleSep{}\bblFontBookTitle{The
+  End of Moore's Law?}, 2000.
+\newblock
+  \url{https://www.technologyreview.com/2000/05/01/236362/the-end-of-moores-law/}
+  \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{McGraw et~al.}(2010)McGraw, Imsand, \bbland
+  Chinni]{McGraw.2010}
+\bblFontAuthorInList{McGraw\bblFirstnameSep{}R\bblAuthorsSep{}Imsand\bblFirstnameSep{}E\bblAuthorsSep{}Chinni\bblFirstnameSep{}MJ}\bblFontAuthorInList{\bbleds}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2010}}\bblAuthorTitleSep{}\bblFontBookTitle{Proceedings
+  of the 2010 Spring Simulation Multiconference on - SpringSim '10}. {ACM
+  Press}, \bblAddress{New York, New York, USA}.
+\newblock \bbldoi{10.1145/1878537}
+
+\bibitem[\bblFontAuthorInText{Miller et~al.}(2017)Miller, Bentov, Kumaresan,
+  \bbland McCorry]{Miller.2017}
+\bblFontAuthorInList{Miller\bblFirstnameSep{}A\bblAuthorsSep{}Bentov\bblFirstnameSep{}I\bblAuthorsSep{}Kumaresan\bblFirstnameSep{}R\bblAuthorsSep{}McCorry\bblFirstnameSep{}P}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2017}}\bblAuthorTitleSep{}\bblFontBookTitle{Sprites:
+  Payment Channels that Go Faster than Lightning}, 2017.
+\newblock \url{http://arxiv.org/pdf/1702.05812v2} \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{Min et~al.}(2019)Min, Wang, Guo, \bbland
+  Cai]{Min.2019}
+\bblFontAuthorInList{Min\bblFirstnameSep{}T\bblAuthorsSep{}Wang\bblFirstnameSep{}H\bblAuthorsSep{}Guo\bblFirstnameSep{}Y\bblAuthorsSep{}Cai\bblFirstnameSep{}W}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2019}}\bblAuthorTitleSep{}\bblFontBookTitle{Blockchain
+  Games: A Survey}.
+\newblock \bblin \bblFontInBookTitle{2019 IEEE Conference on Games (CoG)}.
+  IEEE, \bblpp 1--8.
+\newblock \bbldoi{10.1109/CIG.2019.8848111}
+
+\bibitem[\bblFontAuthorInText{Min \bbland Cai}(2019)Min \bbland Cai]{Min.2019b}
+\bblFontAuthorInList{Min\bblFirstnameSep{}T\bblAuthorsSep{}Cai\bblFirstnameSep{}W}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2019}}\bblAuthorTitleSep{}\bblFontBookTitle{A
+  Security Case Study for Blockchain Games}.
+\newblock \bblin \bblFontInBookTitle{2019 IEEE Games, Entertainment, Media
+  Conference (GEM)}. IEEE, \bblpp 1--8.
+\newblock \bbldoi{10.1109/GEM.2019.8811555}
+
+\bibitem[\bblFontAuthorInText{Morris \bbland Thompson}(1979)Morris \bbland
+  Thompson]{Morris.1979}
+\bblFontAuthorInList{Morris\bblFirstnameSep{}R\bblAuthorsSep{}Thompson\bblFirstnameSep{}K}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{1979}}\bblAuthorTitleSep{}\bblFontBookTitle{Password
+  Security: A Case History}.
+\newblock \bblin \bblFontJournalTitle{Communications of the ACM} 22\penalty0
+  (11):\penalty0 594--597.
+\newblock \bbldoi{10.1145/359168.359172}
+
+\bibitem[\bblFontAuthorInText{Morris}(2003)Morris]{Morris.2003}
+\bblFontAuthorInList{Morris\bblFirstnameSep{}S}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2003}}\bblAuthorTitleSep{}\bblFontBookTitle{WADs,
+  Bots and Mods: Multiplayer FPS Games as Co-creative Media}, 2003.
+\newblock
+  \url{http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.190.3545&rep=rep1&type=pdf}
+  \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{Nagygy{\"o}rgy et~al.}(2013)Nagygy{\"o}rgy,
+  Urb{\'a}n, Farkas, Griffiths, Zilahy, K{\"o}k{\"o}nyei, Merv{\'o}, Reindl,
+  {\'A}goston, Kert{\'e}sz, Harmath, Ol{\'a}h, \bbland
+  Demetrovics]{Nagygyorgy.2013}
+\bblFontAuthorInList{Nagygy{\"o}rgy\bblFirstnameSep{}K\bblAuthorsSep{}Urb{\'a}n\bblFirstnameSep{}R\bblAuthorsSep{}Farkas\bblFirstnameSep{}J\bblAuthorsSep{}Griffiths\bblFirstnameSep{}MD\bblAuthorsSep{}Zilahy\bblFirstnameSep{}D\bblAuthorsSep{}K{\"o}k{\"o}nyei\bblFirstnameSep{}G\bblAuthorsSep{}Merv{\'o}\bblFirstnameSep{}B\bblAuthorsSep{}Reindl\bblFirstnameSep{}A\bblAuthorsSep{}{\'A}goston\bblFirstnameSep{}C\bblAuthorsSep{}Kert{\'e}sz\bblFirstnameSep{}A\bblAuthorsSep{}Harmath\bblFirstnameSep{}E\bblAuthorsSep{}Ol{\'a}h\bblFirstnameSep{}A\bblAuthorsSep{}Demetrovics\bblFirstnameSep{}Z}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2013}}\bblAuthorTitleSep{}\bblFontBookTitle{Typology
+  and Sociodemographic Characteristics of Massively Multiplayer Online Game
+  Players}.
+\newblock \bblin \bblFontJournalTitle{International Journal of Human-Computer
+  Interaction} 29\penalty0 (3):\penalty0 192--200.
+\newblock \bbldoi{10.1080/10447318.2012.702636}
+
+\bibitem[\bblFontAuthorInText{Nakamoto}(2009)Nakamoto]{Nakamoto.2009}
+\bblFontAuthorInList{Nakamoto\bblFirstnameSep{}S}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2009}}\bblAuthorTitleSep{}\bblFontBookTitle{Bitcoin{\_}A
+  Peer-to-Peer Electronic Cash System}, 2009.
+\newblock \url{https://www.bitcoin.org/bitcoin.pdf} \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{Narayanan}(2018)Narayanan]{Narayanan.2018}
+\bblFontAuthorInList{Narayanan\bblFirstnameSep{}A}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2018}}\bblAuthorTitleSep{}\bblFontBookTitle{Written
+  Testimony of Arvind Narayanan}, 2018.
+\newblock
+  \url{https://www.energy.senate.gov/services/files/8A1CECD1-157C-45D4-A1AB-B894E913737D}
+  \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{{Netzer R. H. B.} \bbland {Miller B.
+  P.}}(1992){Netzer R. H. B.} \bbland {Miller B. P.}]{NetzerR.H.B..1992}
+\bblFontAuthorInList{{Netzer R. H. B.}\bblFirstnameSep{}\bblAuthorsSep{}{Miller
+  B.
+  P.}\bblFirstnameSep{}}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{1992}}\bblAuthorTitleSep{}\bblFontBookTitle{What
+  are race conditions? Some Issues and Formalizations}.
+\newblock \bblin \bblFontJournalTitle{ACM Letters on Programming Languages and
+  Systems} 1\penalty0 (1):\penalty0 74--88.
+\newblock \bbldoi{10.1145/130616.130623}
+
+\bibitem[\bblFontAuthorInText{{Nguyen G.-T.} \bbland Kim}(2018){Nguyen G.-T.}
+  \bbland Kim]{NguyenG.T..2018}
+\bblFontAuthorInList{{Nguyen
+  G.-T.}\bblFirstnameSep{}\bblAuthorsSep{}Kim\bblFirstnameSep{}K}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2018}}\bblAuthorTitleSep{}\bblFontBookTitle{A
+  Survey about Consensus Algorithms Used in Blockchain}.
+\newblock \bblin \bblFontJournalTitle{Journal of Information Processing
+  Systems} 2018\penalty0 (14):\penalty0 101--128.
+\newblock \bbldoi{10.3745/JIPS.01.0024}
+
+\bibitem[\bblFontAuthorInText{Oliveira et~al.}(2019)Oliveira, Carrara,
+  Fernandes, Albuquerque, Carrano, Medeiros, \bbland Mattos]{Oliveira.2019}
+\bblFontAuthorInList{Oliveira\bblFirstnameSep{}MT\bblAuthorsSep{}Carrara\bblFirstnameSep{}GR\bblAuthorsSep{}Fernandes\bblFirstnameSep{}NC\bblAuthorsSep{}Albuquerque\bblFirstnameSep{}CVN\bblAuthorsSep{}Carrano\bblFirstnameSep{}RC\bblAuthorsSep{}Medeiros\bblFirstnameSep{}DSV\bblAuthorsSep{}Mattos\bblFirstnameSep{}DMF}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2019}}\bblAuthorTitleSep{}\bblFontBookTitle{Towards
+  a Performance Evaluation of Private Blockchain Frameworks using a Realistic
+  Workload}.
+\newblock \bblin \bblFontJournalTitle{22nd Conference on Innovation in Clouds,
+  Internet and Networks (ICIN 2019)} 2019:\penalty0 180--187.
+\newblock \bbldoi{10.1109/ICIN.2019.8685888}
+
+\bibitem[\bblFontAuthorInText{Palmer}(2002)Palmer]{Palmer.2002}
+\bblFontAuthorInList{Palmer\bblFirstnameSep{}JW}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2002}}\bblAuthorTitleSep{}\bblFontBookTitle{Web
+  Site Usability, Design, and Performance Metrics}.
+\newblock \bblin \bblFontJournalTitle{Information Systems Research} 13\penalty0
+  (2):\penalty0 151--167.
+\newblock \bbldoi{10.1287/isre.13.2.151.88}
+
+\bibitem[\bblFontAuthorInText{Pfeiffer et~al.}(2020)Pfeiffer, Kriglstein,
+  \bbland Wernbacher]{Pfeiffer.2020}
+\bblFontAuthorInList{Pfeiffer\bblFirstnameSep{}A\bblAuthorsSep{}Kriglstein\bblFirstnameSep{}S\bblAuthorsSep{}Wernbacher\bblFirstnameSep{}T}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2020}}\bblAuthorTitleSep{}\bblFontBookTitle{Blockchain
+  Technologies and Games: A Proper Match?}
+\newblock \bblin
+  Yannakakis\bblFirstnameSep{}GN\bblAuthorsSep{}Liapis\bblFirstnameSep{}A\bblAuthorsSep{}Kyburz\bblFirstnameSep{}P\bblAuthorsSep{}Volz\bblFirstnameSep{}V\bblAuthorsSep{}Khosmood\bblFirstnameSep{}F\bblAuthorsSep{}Lopes\bblFirstnameSep{}P\bbleds\bblAuthorTitleSepInEd{}\bblFontInBookTitle{International
+  Conference on the Foundations of Digital Games}. ACM, \bblAddress{New York,
+  NY, USA}, \bblpp 1--4.
+\newblock \bbldoi{10.1145/3402942.3402996}
+
+\bibitem[\bblFontAuthorInText{playhearthstone.com}(2021)playhearthstone.com]{playhearthstone.com.2021}
+\bblFontAuthorInList{playhearthstone.com\bblFirstnameSep{}}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2021}}\bblAuthorTitleSep{}\bblFontBookTitle{Hearthstone},
+  2021.
+\newblock \url{https://playhearthstone.com/} \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{Poon \bbland Dryja}(2016)Poon \bbland
+  Dryja]{Poon.2016}
+\bblFontAuthorInList{Poon\bblFirstnameSep{}J\bblAuthorsSep{}Dryja\bblFirstnameSep{}T}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2016}}\bblAuthorTitleSep{}\bblFontBookTitle{The
+  Bitcoin Lightning Network: Scalable Off-Chain Instant Payments}, 2016.
+\newblock \url{https://lightning.network/lightning-network-paper.pdf}
+  \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{Prugsamatz et~al.}(2010)Prugsamatz, Lowe, \bbland
+  Alpert]{Prugsamatz.2010}
+\bblFontAuthorInList{Prugsamatz\bblFirstnameSep{}S\bblAuthorsSep{}Lowe\bblFirstnameSep{}B\bblAuthorsSep{}Alpert\bblFirstnameSep{}F}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2010}}\bblAuthorTitleSep{}\bblFontBookTitle{Modelling
+  consumer entertainment software choice: An exploratory examination of key
+  attributes, and differences by gamer segment}.
+\newblock \bblin \bblFontJournalTitle{Journal of Consumer Behaviour} 9\penalty0
+  (5):\penalty0 381--392.
+\newblock \bbldoi{10.1002/cb.325}
+
+\bibitem[\bblFontAuthorInText{Quizduell}(2021)Quizduell]{Quizduell.2021}
+\bblFontAuthorInList{Quizduell\bblFirstnameSep{}}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2021}}\bblAuthorTitleSep{}\bblFontBookTitle{Quizduell},
+  2021.
+\newblock \url{http://www.quizduell-game.de/} \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{Rachmawati et~al.}(2017)Rachmawati, Tarigan,
+  \bbland Ginting]{Rachmawati.2017}
+\bblFontAuthorInList{Rachmawati\bblFirstnameSep{}D\bblAuthorsSep{}Tarigan\bblFirstnameSep{}JT\bblAuthorsSep{}Ginting\bblFirstnameSep{}ABC}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2017}}\bblAuthorTitleSep{}\bblFontBookTitle{A
+  comparative study of Message Digest 5(MD5) and SHA256 algorithm}.
+\newblock \bblin \bblFontJournalTitle{Journal of Physics: Conference Series}
+  978:\penalty0 1--6.
+\newblock \bbldoi{10.1088/1742-6596/978/1/012116}
+
+\bibitem[\bblFontAuthorInText{Ranchal-Pedrosa \bbland
+  Gramoli}(2020)Ranchal-Pedrosa \bbland Gramoli]{RanchalPedrosa.2020}
+\bblFontAuthorInList{Ranchal-Pedrosa\bblFirstnameSep{}A\bblAuthorsSep{}Gramoli\bblFirstnameSep{}V}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2020}}\bblAuthorTitleSep{}\bblFontBookTitle{Blockchain
+  Is Dead, Long Live Blockchain! Accountable State Machine Replication for
+  Longlasting Blockchain}, 2020.
+\newblock \url{http://arxiv.org/pdf/2007.10541v2} \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{{Red Blob Games}}(2020){Red Blob
+  Games}]{RedBlobGames.2020}
+\bblFontAuthorInList{{Red Blob
+  Games}\bblFirstnameSep{}}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2020}}\bblAuthorTitleSep{}\bblFontBookTitle{2d
+  Visibility}, 2020.
+\newblock \url{https://www.redblobgames.com/articles/visibility/}
+  \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{rockpapershotgun.com}(2021)rockpapershotgun.com]{rockpapershotgun.com.2021}
+\bblFontAuthorInList{rockpapershotgun.com\bblFirstnameSep{}}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2021}}\bblAuthorTitleSep{}\bblFontBookTitle{Server
+  Shutdowns}, 2021.
+\newblock \url{https://www.rockpapershotgun.com/topics/server-shutdowns}
+  \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{Rong et~al.}(2018)Rong, Ren, \bbland
+  Shi]{Rong.2018}
+\bblFontAuthorInList{Rong\bblFirstnameSep{}K\bblAuthorsSep{}Ren\bblFirstnameSep{}Q\bblAuthorsSep{}Shi\bblFirstnameSep{}X}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2018}}\bblAuthorTitleSep{}\bblFontBookTitle{The
+  determinants of network effects: Evidence from online games business
+  ecosystems}.
+\newblock \bblin \bblFontJournalTitle{Technological Forecasting and Social
+  Change} 134:\penalty0 45--60.
+\newblock \bbldoi{10.1016/j.techfore.2018.05.007}
+
+\bibitem[\bblFontAuthorInText{Saleh}(2020)Saleh]{Saleh.2020}
+\bblFontAuthorInList{Saleh\bblFirstnameSep{}F}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2020}}\bblAuthorTitleSep{}\bblFontBookTitle{Blockchain
+  Without Waste: Proof-of-Stake}.
+\newblock \bblin \bblFontJournalTitle{Review of Financial Studies, Forthcoming}
+\newblock \bbldoi{10.2139/ssrn.3183935}
+
+\bibitem[\bblFontAuthorInText{Serada et~al.}(2020)Serada, Sihvonen, \bbland
+  Harviainen]{Serada.2020}
+\bblFontAuthorInList{Serada\bblFirstnameSep{}A\bblAuthorsSep{}Sihvonen\bblFirstnameSep{}T\bblAuthorsSep{}Harviainen\bblFirstnameSep{}JT}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2020}}\bblAuthorTitleSep{}\bblFontBookTitle{CryptoKitties
+  and the New Ludic Economy: How Blockchain Introduces Value, Ownership, and
+  Scarcity in Digital Gaming}.
+\newblock \bblin \bblFontJournalTitle{Games and Culture} \bblp 155541201989830.
+\newblock \bbldoi{10.1177/1555412019898305}
+
+\bibitem[\bblFontAuthorInText{Setear}(1989)Setear]{Setear.1989}
+\bblFontAuthorInList{Setear\bblFirstnameSep{}JK}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{1989}}\bblAuthorTitleSep{}\bblFontBookTitle{Simulating
+  the Fog of War: Research report}.
+\newblock \bblin \bblFontJournalTitle{RAND Corporation}
+\newblock \url{https://apps.dtic.mil/sti/pdfs/ADA228112.pdf}
+
+\bibitem[\bblFontAuthorInText{Sharma et~al.}(2020)Sharma, Jindal, \bbland
+  Borah]{Sharma.2020}
+\bblFontAuthorInList{Sharma\bblFirstnameSep{}P\bblAuthorsSep{}Jindal\bblFirstnameSep{}R\bblAuthorsSep{}Borah\bblFirstnameSep{}MD}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2020}}\bblAuthorTitleSep{}\bblFontBookTitle{Blockchain
+  Technology for Cloud Storage}.
+\newblock \bblin \bblFontJournalTitle{ACM Computing Surveys} 53\penalty0
+  (4):\penalty0 89--121.
+\newblock \bbldoi{10.1145/3403954}
+
+\bibitem[\bblFontAuthorInText{Smythe}(1999)Smythe]{Smythe.1999}
+\bblFontAuthorInList{Smythe\bblFirstnameSep{}C}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{1999}}\bblAuthorTitleSep{}\bblFontBookTitle{Iso
+  8802/5 token ring local-area netwvorks}.
+\newblock \bblin \bblFontJournalTitle{ELECTRONICS {\&} COMMUNICATION
+  ENGINEERING JOURNAL} 1999:\penalty0 195--207.
+\newblock \bbldoi{10.1049/ecej:19990406}
+
+\bibitem[\bblFontAuthorInText{Socios.com}(2021)Socios.com]{Socios.com.2021}
+\bblFontAuthorInList{Socios.com\bblFirstnameSep{}}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2021}}\bblAuthorTitleSep{}\bblFontBookTitle{Socios},
+  2021.
+\newblock \url{https://www.socios.com/} \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{Sotamaa \bbland Svelch}(2021)Sotamaa \bbland
+  Svelch]{Sotamaa.2021}
+\bblFontAuthorInList{Sotamaa\bblFirstnameSep{}O\bblAuthorsSep{}Svelch\bblFirstnameSep{}J}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2021}}\bblAuthorTitleSep{}\bblFontBookTitle{Game
+  Production Studies}.
+\newblock {Amsterdam University Press}, \bblAddress{NL Amsterdam}.
+\newblock \bbldoi{10.5117/9789463725439}
+
+\bibitem[\bblFontAuthorInText{statista.com}(2021{\natexlab{a}})statista.com]{statista.com.2021}
+\bblFontAuthorInList{statista.com\bblFirstnameSep{}}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2021{\natexlab{a}}}}\bblAuthorTitleSep{}\bblFontBookTitle{Number
+  of available apps in the Apple App Store from 2008 to 2020},
+  2021{\natexlab{a}}.
+\newblock
+  \url{https://www.statista.com/statistics/268251/number-of-apps-in-the-itunes-app-store-since-2008/}
+  \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{statista.com}(2021{\natexlab{b}})statista.com]{statista.com.2021b}
+\bblFontAuthorInList{statista.com\bblFirstnameSep{}}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2021{\natexlab{b}}}}\bblAuthorTitleSep{}\bblFontBookTitle{Tablet
+  operating systems market share in the United States from 2016 to 2021},
+  2021{\natexlab{b}}.
+\newblock
+  \url{https://www.statista.com/statistics/271293/market-share-held-by-tablet-os-us/}
+  \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{STIGLITZ}(1989)STIGLITZ]{STIGLITZ.1989}
+\bblFontAuthorInList{STIGLITZ\bblFirstnameSep{}JE}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{1989}}\bblAuthorTitleSep{}\bblFontBookTitle{Principal
+  and Agent}.
+\newblock \bblin \bblFontJournalTitle{Allocation, Information and Markets}
+  \bblpp 241--253.
+\newblock \url{https://doi.org/10.1007/978-1-349-20215-7_25}
+
+\bibitem[\bblFontAuthorInText{{Sultan K.} et~al.}(2018){Sultan K.}, Ruhi,
+  \bbland Lakhani]{SultanK..2018}
+\bblFontAuthorInList{{Sultan
+  K.}\bblFirstnameSep{}\bblAuthorsSep{}Ruhi\bblFirstnameSep{}U\bblAuthorsSep{}Lakhani\bblFirstnameSep{}R}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2018}}\bblAuthorTitleSep{}\bblFontBookTitle{Conceptualizing
+  Blockchains: Characteristics {\&} Applications}, 2018.
+\newblock \url{https://arxiv.org/abs/1806.03693} \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{teamfortress.com}(2021)teamfortress.com]{teamfortress.com.2021}
+\bblFontAuthorInList{teamfortress.com\bblFirstnameSep{}}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2021}}\bblAuthorTitleSep{}\bblFontBookTitle{Windows
+  dedicated server: Setup}, 2021.
+\newblock \url{https://wiki.teamfortress.com/wiki/Windows_dedicated_server}
+  \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{VALVe}(2021)VALVe]{VALVe.2021}
+\bblFontAuthorInList{VALVe\bblFirstnameSep{}}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2021}}\bblAuthorTitleSep{}\bblFontBookTitle{Dedicated
+  Servers List: A list of dedicated servers available on Steam/SteamCMD.},
+  2021.
+\newblock \url{https://developer.valvesoftware.com/wiki/Dedicated_Servers_List}
+  \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{vice.com}(2021)vice.com]{vice.com.2021}
+\bblFontAuthorInList{vice.com\bblFirstnameSep{}}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2021}}\bblAuthorTitleSep{}\bblFontBookTitle{Hackers
+  Steal Wealth of Data from Game Giant EA}, 2021.
+\newblock
+  \url{https://www.vice.com/en/article/wx5xpx/hackers-steal-data-electronic-arts-ea-fifa-source-code}
+  \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{Vukoli{\'c}}(2016)Vukoli{\'c}]{Vukolic.2016}
+\bblFontAuthorInList{Vukoli{\'c}\bblFirstnameSep{}M}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2016}}\bblAuthorTitleSep{}\bblFontBookTitle{The
+  Quest for Scalable Blockchain Fabric: Proof-of-Work vs. BFT Replication}.
+\newblock \bblin
+  Camenisch\bblFirstnameSep{}J\bblAuthorsSep{}Kesdo{\u{g}}an\bblFirstnameSep{}D\bbleds\bblAuthorTitleSepInEd{}\bblFontInBookTitle{Open
+  Problems in Network Security}, \bblpp 112--125,. {Springer International
+  Publishing}, \bblAddress{Cham}.
+\newblock \bbldoi{10.1007/978-3-319-39028-4}
+
+\bibitem[\bblFontAuthorInText{Wang}(2021)Wang]{Wang.2021}
+\bblFontAuthorInList{Wang\bblFirstnameSep{}B}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2021}}\bblAuthorTitleSep{}\bblFontBookTitle{Average
+  Smartphone NAND Flash Capacity Crossed 100GB in 2020}, 2021.
+\newblock
+  \url{https://www.counterpointresearch.com/average-smartphone-nand-flash-capacity-crossed-100gb-2020/}
+  \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{Wang et~al.}(2018)Wang, Dinh, Lin, Xie, Zhang,
+  Cai, Chen, Fu, Ooi, \bbland Ruan]{Wang.2018}
+\bblFontAuthorInList{Wang\bblFirstnameSep{}S\bblAuthorsSep{}Dinh\bblFirstnameSep{}TTA\bblAuthorsSep{}Lin\bblFirstnameSep{}Q\bblAuthorsSep{}Xie\bblFirstnameSep{}Z\bblAuthorsSep{}Zhang\bblFirstnameSep{}M\bblAuthorsSep{}Cai\bblFirstnameSep{}Q\bblAuthorsSep{}Chen\bblFirstnameSep{}G\bblAuthorsSep{}Fu\bblFirstnameSep{}W\bblAuthorsSep{}Ooi\bblFirstnameSep{}BC\bblAuthorsSep{}Ruan\bblFirstnameSep{}P}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2018}}\bblAuthorTitleSep{}\bblFontBookTitle{ForkBase:
+  An Efficient Storage Engine for Blockchain and Forkable Applications}, 2018.
+\newblock \url{http://arxiv.org/pdf/1802.04949v1} \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{Wang et~al.}(2012)Wang, Kwon, Choi, Chen, \bbland
+  Zhang]{Wang.2012}
+\bblFontAuthorInList{Wang\bblFirstnameSep{}X\bblAuthorsSep{}Kwon\bblFirstnameSep{}T\bblAuthorsSep{}Choi\bblFirstnameSep{}Y\bblAuthorsSep{}Chen\bblFirstnameSep{}M\bblAuthorsSep{}Zhang\bblFirstnameSep{}Y}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2012}}\bblAuthorTitleSep{}\bblFontBookTitle{Characterizing
+  the Gaming Traffic of World of Warcraft: From Game Scenarios to Network
+  Access Technologies}.
+\newblock \bblin \bblFontJournalTitle{IEEE Network} 2012.
+\newblock \bbldoi{10.1109/MNET.2012.6135853}
+
+\bibitem[\bblFontAuthorInText{Weber et~al.}(2017)Weber, Gramoli, Ponomarev,
+  Staples, Holz, Tran, \bbland Rimba]{Weber.2017}
+\bblFontAuthorInList{Weber\bblFirstnameSep{}I\bblAuthorsSep{}Gramoli\bblFirstnameSep{}V\bblAuthorsSep{}Ponomarev\bblFirstnameSep{}A\bblAuthorsSep{}Staples\bblFirstnameSep{}M\bblAuthorsSep{}Holz\bblFirstnameSep{}R\bblAuthorsSep{}Tran\bblFirstnameSep{}AB\bblAuthorsSep{}Rimba\bblFirstnameSep{}P}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2017}}\bblAuthorTitleSep{}\bblFontBookTitle{On
+  Availability for Blockchain-Based Systems}.
+\newblock \bblin \bblFontInBookTitle{2017 IEEE 36th Symposium on Reliable
+  Distributed Systems (SRDS)}. IEEE, \bblpp 64--73.
+\newblock \bbldoi{10.1109/SRDS.2017.15}
+
+\bibitem[\bblFontAuthorInText{Weilbacher}(2012)Weilbacher]{Weilbacher.2012}
+\bblFontAuthorInList{Weilbacher\bblFirstnameSep{}M}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2012}}\bblAuthorTitleSep{}\bblFontBookTitle{Dedicated
+  Servers in Gears of War 3: Scaling to Millions of Players}, 2012.
+\newblock
+  \url{https://www.gdcvault.com/play/1015337/Dedicated-Servers-In-Gears-of}
+  \bblurldate{11.06.2021}
+
+\bibitem[\bblFontAuthorInText{Wikipedia}(2021{\natexlab{a}})Wikipedia]{Wikipedia.2021}
+\bblFontAuthorInList{Wikipedia\bblFirstnameSep{}}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2021{\natexlab{a}}}}\bblAuthorTitleSep{}\bblFontBookTitle{Battlefield
+  (video game series) - Wikipedia}, 2021{\natexlab{a}}.
+\newblock \url{https://en.wikipedia.org/wiki/Battlefield_(video_game_series)}
+  \bblurldate{06.06.2021}
+
+\bibitem[\bblFontAuthorInText{Wikipedia}(2021{\natexlab{b}})Wikipedia]{Wikipedia.2021b}
+\bblFontAuthorInList{Wikipedia\bblFirstnameSep{}}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2021{\natexlab{b}}}}\bblAuthorTitleSep{}\bblFontBookTitle{Category:Play-by-email
+  video games}, 2021{\natexlab{b}}.
+\newblock
+  \url{https://en.wikipedia.org/wiki/Category:Play-by-email_video_games}
+  \bblurldate{09.06.2021}
+
+\bibitem[\bblFontAuthorInText{Wikipedia}(2021{\natexlab{c}})Wikipedia]{Wikipedia.2021c}
+\bblFontAuthorInList{Wikipedia\bblFirstnameSep{}}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2021{\natexlab{c}}}}\bblAuthorTitleSep{}\bblFontBookTitle{Game
+  server}, 2021{\natexlab{c}}.
+\newblock \url{https://en.wikipedia.org/wiki/Game_server}
+
+\bibitem[\bblFontAuthorInText{Wikipedia}(2021{\natexlab{d}})Wikipedia]{Wikipedia.2021d}
+\bblFontAuthorInList{Wikipedia\bblFirstnameSep{}}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2021{\natexlab{d}}}}\bblAuthorTitleSep{}\bblFontBookTitle{M.U.L.E.},
+  2021{\natexlab{d}}.
+\newblock \url{https://en.wikipedia.org/wiki/M.U.L.E.} \bblurldate{09.06.2021}
+
+\bibitem[\bblFontAuthorInText{Wikipedia}(2021{\natexlab{e}})Wikipedia]{Wikipedia.2021e}
+\bblFontAuthorInList{Wikipedia\bblFirstnameSep{}}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2021{\natexlab{e}}}}\bblAuthorTitleSep{}\bblFontBookTitle{Star
+  Wars: Battlefront}, 2021{\natexlab{e}}.
+\newblock \url{https://en.wikipedia.org/wiki/Star_Wars:_Battlefront}
+  \bblurldate{06.06.2021}
+
+\bibitem[\bblFontAuthorInText{Williams et~al.}(2008)Williams, Yee, \bbland
+  Caplan]{Williams.2008}
+\bblFontAuthorInList{Williams\bblFirstnameSep{}D\bblAuthorsSep{}Yee\bblFirstnameSep{}N\bblAuthorsSep{}Caplan\bblFirstnameSep{}SE}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2008}}\bblAuthorTitleSep{}\bblFontBookTitle{Who
+  plays, how much, and why? Debunking the stereotypical gamer profile}.
+\newblock \bblin \bblFontJournalTitle{Journal of Computer-Mediated
+  Communication} 13\penalty0 (4):\penalty0 993--1018.
+\newblock \bbldoi{10.1111/j.1083-6101.2008.00428.x}
+
+\bibitem[\bblFontAuthorInText{Wu et~al.}(2020)Wu, Yuen, Chan, Leung, \bbland
+  Cai]{Wu.2020}
+\bblFontAuthorInList{Wu\bblFirstnameSep{}F\bblAuthorsSep{}Yuen\bblFirstnameSep{}HY\bblAuthorsSep{}Chan\bblFirstnameSep{}HCB\bblAuthorsSep{}Leung\bblFirstnameSep{}VCM\bblAuthorsSep{}Cai\bblFirstnameSep{}W}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2020}}\bblAuthorTitleSep{}\bblFontBookTitle{Infinity
+  Battle: A Glance at How Blockchain Techniques Serve in a Serverless Gaming
+  System}.
+\newblock \bblin {Wen
+  Chen}\bblFirstnameSep{}C\bblAuthorsSep{}Cucchiara\bblFirstnameSep{}R\bblAuthorsSep{}Hua\bblFirstnameSep{}XS\bblAuthorsSep{}Qi\bblFirstnameSep{}GJ\bblAuthorsSep{}Ricci\bblFirstnameSep{}E\bblAuthorsSep{}Zhang\bblFirstnameSep{}Z\bblAuthorsSep{}Zimmermann\bblFirstnameSep{}R\bbleds\bblAuthorTitleSepInEd{}\bblFontInBookTitle{Proceedings
+  of the 28th ACM International Conference on Multimedia}. ACM, \bblAddress{New
+  York, NY, USA}, \bblpp 4559--4561.
+\newblock \bbldoi{10.1145/3394171.3414458}
+
+\bibitem[\bblFontAuthorInText{Wu et~al.}(2010)Wu, Shiva, Roy, Ellis, \bbland
+  {Datla, Vivek, D.}]{Wu.2010}
+\bblFontAuthorInList{Wu\bblFirstnameSep{}Q\bblAuthorsSep{}Shiva\bblFirstnameSep{}S\bblAuthorsSep{}Roy\bblFirstnameSep{}S\bblAuthorsSep{}Ellis\bblFirstnameSep{}C\bblAuthorsSep{}{Datla,
+  Vivek,
+  D.}\bblFirstnameSep{}}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2010}}\bblAuthorTitleSep{}\bblFontBookTitle{On
+  modeling and simulation of game theory-based defense mechanisms against DoS
+  and DDoS attacks}.
+\newblock \bblin
+  McGraw\bblFirstnameSep{}R\bblAuthorsSep{}Imsand\bblFirstnameSep{}E\bblAuthorsSep{}Chinni\bblFirstnameSep{}MJ\bbleds\bblAuthorTitleSepInEd{}\bblFontInBookTitle{Proceedings
+  of the 2010 Spring Simulation Multiconference on - SpringSim '10}. {ACM
+  Press}, \bblAddress{New York, New York, USA}, \bblp~1.
+\newblock \bbldoi{10.1145/1878537.1878703}
+
+\bibitem[\bblFontAuthorInText{xaya.io}(2021)xaya.io]{xaya.io.2021}
+\bblFontAuthorInList{xaya.io\bblFirstnameSep{}}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2021}}\bblAuthorTitleSep{}\bblFontBookTitle{Huntercoin},
+  2021.
+\newblock \url{https://xaya.io/huntercoin-legacy/} \bblurldate{09.06.2021}
+
+\bibitem[\bblFontAuthorInText{Xu et~al.}(2019)Xu, Wang, Bhargava, \bbland
+  Yang]{Xu.2019}
+\bblFontAuthorInList{Xu\bblFirstnameSep{}J\bblAuthorsSep{}Wang\bblFirstnameSep{}S\bblAuthorsSep{}Bhargava\bblFirstnameSep{}BK\bblAuthorsSep{}Yang\bblFirstnameSep{}F}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2019}}\bblAuthorTitleSep{}\bblFontBookTitle{A
+  Blockchain-Enabled Trustless Crowd-Intelligence Ecosystem on Mobile Edge
+  Computing}.
+\newblock \bblin \bblFontJournalTitle{IEEE Transactions on Industrial
+  Informatics} 15\penalty0 (6):\penalty0 3538--3547.
+\newblock \bbldoi{10.1109/TII.2019.2896965}
+
+\bibitem[\bblFontAuthorInText{Yan \bbland Randell}(2009)Yan \bbland
+  Randell]{Yan.2009}
+\bblFontAuthorInList{Yan\bblFirstnameSep{}J\bblAuthorsSep{}Randell\bblFirstnameSep{}B}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2009}}\bblAuthorTitleSep{}\bblFontBookTitle{An
+  Investigation of Cheating in Online Games}.
+\newblock \bblin \bblFontJournalTitle{IEEE Security {\&} Privacy Magazine}
+  7\penalty0 (3):\penalty0 37--44.
+\newblock \bbldoi{10.1109/MSP.2009.60}
+
+\bibitem[\bblFontAuthorInText{Yuen et~al.}(2019)Yuen, Wu, Cai, Chan, Yan,
+  \bbland Leung]{Yuen.2019}
+\bblFontAuthorInList{Yuen\bblFirstnameSep{}HY\bblAuthorsSep{}Wu\bblFirstnameSep{}F\bblAuthorsSep{}Cai\bblFirstnameSep{}W\bblAuthorsSep{}Chan\bblFirstnameSep{}HC\bblAuthorsSep{}Yan\bblFirstnameSep{}Q\bblAuthorsSep{}Leung\bblFirstnameSep{}VC}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2019}}\bblAuthorTitleSep{}\bblFontBookTitle{Proof-of-Play:
+  A Novel Consensus Model for Blockchain-based Peer-to-Peer Gaming System}.
+\newblock \bblin Gai\bblFirstnameSep{}K\bblAuthorsSep{}{Raymond
+  Choo}\bblFirstnameSep{}KK\bblAuthorsSep{}He\bblFirstnameSep{}D\bblAuthorsSep{}Wen\bblFirstnameSep{}S\bbleds\bblAuthorTitleSepInEd{}\bblFontInBookTitle{Proceedings
+  of the 2019 ACM International Symposium on Blockchain and Secure Critical
+  Infrastructure - BSCI '19}. {ACM Press}, \bblAddress{New York, New York,
+  USA}, \bblpp 19--28.
+\newblock \bbldoi{10.1145/3327960.3332386}
+
+\bibitem[\bblFontAuthorInText{Zargar et~al.}(2013)Zargar, Joshi, \bbland
+  Tipper]{Zargar.2013}
+\bblFontAuthorInList{Zargar\bblFirstnameSep{}ST\bblAuthorsSep{}Joshi\bblFirstnameSep{}J\bblAuthorsSep{}Tipper\bblFirstnameSep{}D}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2013}}\bblAuthorTitleSep{}\bblFontBookTitle{A
+  Survey of Defense Mechanisms Against Distributed Denial of Service (DDoS)
+  Flooding Attacks}.
+\newblock \bblin \bblFontJournalTitle{IEEE Communications Surveys {\&}
+  Tutorials} 15\penalty0 (4):\penalty0 2046--2069.
+\newblock \bbldoi{10.1109/SURV.2013.031413.00127}
+
+\bibitem[\bblFontAuthorInText{Zhang et~al.}(2018)Zhang, Qin, Yuan, \bbland
+  Wang]{Zhang.2018}
+\bblFontAuthorInList{Zhang\bblFirstnameSep{}X\bblAuthorsSep{}Qin\bblFirstnameSep{}R\bblAuthorsSep{}Yuan\bblFirstnameSep{}Y\bblAuthorsSep{}Wang\bblFirstnameSep{}FY}\bblAuthorYearSep{}\bblFontYearInList{\bblYear{2018}}\bblAuthorTitleSep{}\bblFontBookTitle{An
+  Analysis of Blockchain-based Bitcoin Mining Difficulty: Techniques and
+  Principles}.
+\newblock \bblin \bblFontInBookTitle{2018 Chinese Automation Congress (CAC)}.
+  IEEE, \bblpp 1184--1189.
+\newblock \bbldoi{10.1109/CAC.2018.8623140}
+
+\end{thebibliography}

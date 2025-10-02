@@ -1,0 +1,53 @@
+\babel@toc {british}{}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Blockchain Structure (Adapted from \citet {Lin.2017})}}{8}{figure.2.1}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces \citeauthor {Oliveira.2019}'s layers of \gls {BC} consensus}}{11}{figure.2.2}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Off-Chain \& Childchain}}{18}{figure.2.3}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Collectibles store 'CryptoShapes' (Adapted from \citet {CryptoKitties.co.2021})}}{23}{figure.3.1}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Visibility and Scalability}}{24}{figure.3.2}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Global share of devices by gaming time (Data from \citet {LimelightNetworks.2020})}}{26}{figure.3.3}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Global preferred game characteristics (Data from \citet {LimelightNetworks.2020})}}{26}{figure.3.4}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Sample game}}{30}{figure.3.5}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Offset revealing of a single block (As described by \citet {Kraft.2016})}}{31}{figure.3.6}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Offset revealing with game hash (From \citet {Yuen.2019})}}{32}{figure.3.7}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Offset revealing with follow up}}{33}{figure.3.8}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Parties shuffling cards}}{37}{figure.3.9}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Decryption processes (Nodes A, B and C)}}{39}{figure.3.10}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Decryption processes using many nodes ($\geq D$)}}{40}{figure.3.11}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces BFT shuffling cards}}{41}{figure.3.12}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Fog of war in chess - Open moves (1)}}{42}{figure.3.13}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Fog of war in chess - Open moves (2)}}{43}{figure.3.14}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Fog of war in chess - Fogged moves (1)}}{43}{figure.3.15}%
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Fog of war in chess - Fogged moves (2)}}{44}{figure.3.16}%
+\contentsline {figure}{\numberline {3.17}{\ignorespaces General \gls {BT} storage allocation chart}}{47}{figure.3.17}%
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Prune bloat transactions}}{49}{figure.3.18}%
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Prune procedure/Child-chain chart}}{50}{figure.3.19}%
+\contentsline {figure}{\numberline {3.20}{\ignorespaces Child-chain storage allocation}}{51}{figure.3.20}%
+\contentsline {figure}{\numberline {3.21}{\ignorespaces Meta-State Block process step}}{51}{figure.3.21}%
+\contentsline {figure}{\numberline {3.22}{\ignorespaces Meta-State Block chart}}{52}{figure.3.22}%
+\contentsline {figure}{\numberline {3.23}{\ignorespaces Storage allocation comparison}}{52}{figure.3.23}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces The turn}}{55}{figure.4.1}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Layers in PoT (Adapted from \citet {Oliveira.2019})}}{56}{figure.4.2}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Sample 'peering by pulling'-strategy}}{60}{figure.4.3}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Pull request procedure}}{62}{figure.4.4}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Ending turn before maturity}}{64}{figure.4.5}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Update Mechanism}}{65}{figure.4.6}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Pseudo layers of peering by pushing}}{66}{figure.4.7}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Permission Transition}}{68}{figure.4.8}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Network Partition in PoT}}{69}{figure.4.9}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Mechanisms regarding the CAP Theorem (Adapted from \citet {Angelis.2018})}}{70}{figure.4.10}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Most Progressive Chain Rule}}{71}{figure.4.11}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces PoT: Trigger event mechanisms}}{73}{figure.4.12}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Multi layer BC system}}{74}{figure.4.13}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Share of devices by gaming time \cite [7]{LimelightNetworks.2020}}}{86}{figure.A.1}%
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Average smartphone storage space (From \cite {Wang.2021})}}{87}{figure.A.2}%
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Game characteristics data \cite [18]{LimelightNetworks.2020}}}{87}{figure.A.3}%
+\addvspace {10\p@ }
+\babel@toc {ngerman}{}
+\babel@toc {british}{}
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

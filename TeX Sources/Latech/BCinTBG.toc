@@ -1,0 +1,60 @@
+\babel@toc {british}{}
+\contentsline {chapter}{\nonumberline List of Figures}{IV}{chapter*.3}%
+\contentsline {chapter}{\nonumberline List of Tables}{VI}{chapter*.4}%
+\contentsline {chapter}{Abbreviations}{VII}{section*.5}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Current Situation}{2}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Problem Statement}{4}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Research Design \& Questions}{5}{section.1.3}%
+\contentsline {chapter}{\numberline {2}Blockchain Technology}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Network types \& characteristics of Blockchains}{9}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Consensus Mechanisms}{12}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Proof-of-Mechanisms}{13}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Vote-based Consensus}{15}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Performance Improvements}{17}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Comparison of Consensus Mechanisms}{19}{subsection.2.2.4}%
+\contentsline {chapter}{\numberline {3}Blockchain Technology in Games}{22}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Ownership, network costs, gameplay \& scalability}{22}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Gaming market}{25}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Existing games using Blockchain Technology}{27}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Problem area}{29}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Game specific smart contracts}{31}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Hidden transactions \& Randomization}{31}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Piles of Cards}{35}{subsection.3.5.2}%
+\contentsline {subsubsection}{\numberline {3.5.2.1}General draws from piles}{35}{subsubsection.3.5.2.1}%
+\contentsline {subsubsection}{\numberline {3.5.2.2}Public pile with private draw}{37}{subsubsection.3.5.2.2}%
+\contentsline {subsection}{\numberline {3.5.3}Fog of War}{41}{subsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.5.4}Reveal claims, trigger events \& Disputes}{44}{subsection.3.5.4}%
+\contentsline {section}{\numberline {3.6}Data allocation improvements}{45}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Prune bloat transactions}{48}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}Child-chain transition}{50}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.3}Meta-State Blocks}{51}{subsection.3.6.3}%
+\contentsline {section}{\numberline {3.7}Interim Summary - Blockchain Technology in Games}{53}{section.3.7}%
+\contentsline {chapter}{\numberline {4}Proof-of-Turn}{55}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Consensus finality \& Byzantine Fault Tolerance}{58}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Peering}{59}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Pull-Mechanism}{60}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Push-Mechanism}{65}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4.3}CAP Theorem measurement}{68}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Forks \& transition blocks}{70}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Reveal claims \& trigger events}{72}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Interoperability}{73}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Peer-Fluctuation \& adaptive turn time}{75}{section.4.7}%
+\contentsline {section}{\numberline {4.8}Further Characteristics}{76}{section.4.8}%
+\contentsline {section}{\numberline {4.9}Attack Vectors}{78}{section.4.9}%
+\contentsline {section}{\numberline {4.10}Limitations}{81}{section.4.10}%
+\contentsline {section}{\numberline {4.11}Interim Summary - Proof-of-Turn}{82}{section.4.11}%
+\contentsline {chapter}{\numberline {5}Conclusion \& Outlook}{83}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Outlook}{84}{section.5.1}%
+\contentsline {chapter}{\numberline {A}Appendix}{86}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Data regarding gaming devices}{86}{section.A.1}%
+\contentsline {section}{\numberline {A.2}Scripts for graph's plots}{88}{section.A.2}%
+\contentsline {subsection}{\numberline {A.2.1}Plot: BFT shuffling cards}{88}{subsection.A.2.1}%
+\contentsline {subsection}{\numberline {A.2.2}Plot: General storage allocation}{90}{subsection.A.2.2}%
+\contentsline {subsection}{\numberline {A.2.3}Plot: Storage allocation Prune procedure/Child-chain}{91}{subsection.A.2.3}%
+\contentsline {subsection}{\numberline {A.2.4}Plot: Storage allocation Meta State Block}{92}{subsection.A.2.4}%
+\contentsline {subsection}{\numberline {A.2.5}Plot: Storage allocation comparison}{93}{subsection.A.2.5}%
+\contentsline {chapter}{\nonumberline Bibliography}{94}{chapter*.7}%
+\babel@toc {ngerman}{}
+\babel@toc {british}{}
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

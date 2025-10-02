@@ -1,0 +1,840 @@
+\ifglsentryexists{A}{}%
+{%
+\gls@defglossaryentry{A}%
+{%
+name={A},%
+sort={A},%
+type={acronym},%
+first={Availability\glsspace (A)},%
+firstplural={Availabilitys\glsspace (As)},%
+text={A},%
+plural={As},%
+description={Availability},%
+descriptionplural={Availability\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Availability},%
+longplural={Availabilitys},%
+short={A},%
+shortplural={As},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{BT}{}%
+{%
+\gls@defglossaryentry{BT}%
+{%
+name={BT},%
+sort={BT},%
+type={acronym},%
+first={Bloat Transaction\glsspace (BT)},%
+firstplural={Bloat Transactions\glsspace (BTs)},%
+text={BT},%
+plural={BTs},%
+description={Bloat Transaction},%
+descriptionplural={Bloat Transaction\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Bloat Transaction},%
+longplural={Bloat Transactions},%
+short={BT},%
+shortplural={BTs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{BC}{}%
+{%
+\gls@defglossaryentry{BC}%
+{%
+name={BC},%
+sort={BC},%
+type={acronym},%
+first={Blockchain\glsspace (BC)},%
+firstplural={Blockchains\glsspace (BCs)},%
+text={BC},%
+plural={BCs},%
+description={Blockchain},%
+descriptionplural={Blockchain\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Blockchain},%
+longplural={Blockchains},%
+short={BC},%
+shortplural={BCs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{BCT}{}%
+{%
+\gls@defglossaryentry{BCT}%
+{%
+name={BCT},%
+sort={BCT},%
+type={acronym},%
+first={Blockchain Technology\glsspace (BCT)},%
+firstplural={Blockchain Technologys\glsspace (BCTs)},%
+text={BCT},%
+plural={BCTs},%
+description={Blockchain Technology},%
+descriptionplural={Blockchain Technology\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Blockchain Technology},%
+longplural={Blockchain Technologys},%
+short={BCT},%
+shortplural={BCTs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{BFT}{}%
+{%
+\gls@defglossaryentry{BFT}%
+{%
+name={BFT},%
+sort={BFT},%
+type={acronym},%
+first={Byzantine Fault Tolerance\glsspace (BFT)},%
+firstplural={Byzantine Fault Tolerances\glsspace (BFTs)},%
+text={BFT},%
+plural={BFTs},%
+description={Byzantine Fault Tolerance},%
+descriptionplural={Byzantine Fault Tolerance\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Byzantine Fault Tolerance},%
+longplural={Byzantine Fault Tolerances},%
+short={BFT},%
+shortplural={BFTs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{BPMN}{}%
+{%
+\gls@defglossaryentry{BPMN}%
+{%
+name={BPMN},%
+sort={BPMN},%
+type={acronym},%
+first={Business Process Modeling Notation\glsspace (BPMN)},%
+firstplural={Business Process Modeling Notations\glsspace (BPMNs)},%
+text={BPMN},%
+plural={BPMNs},%
+description={Business Process Modeling Notation},%
+descriptionplural={Business Process Modeling Notation\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Business Process Modeling Notation},%
+longplural={Business Process Modeling Notations},%
+short={BPMN},%
+shortplural={BPMNs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{C}{}%
+{%
+\gls@defglossaryentry{C}%
+{%
+name={C},%
+sort={C},%
+type={acronym},%
+first={Consistency\glsspace (C)},%
+firstplural={Consistencys\glsspace (Cs)},%
+text={C},%
+plural={Cs},%
+description={Consistency},%
+descriptionplural={Consistency\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Consistency},%
+longplural={Consistencys},%
+short={C},%
+shortplural={Cs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{CF}{}%
+{%
+\gls@defglossaryentry{CF}%
+{%
+name={CF},%
+sort={CF},%
+type={acronym},%
+first={Consensus Finality\glsspace (CF)},%
+firstplural={Consensus Finalitys\glsspace (CFs)},%
+text={CF},%
+plural={CFs},%
+description={Consensus Finality},%
+descriptionplural={Consensus Finality\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Consensus Finality},%
+longplural={Consensus Finalitys},%
+short={CF},%
+shortplural={CFs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{CM}{}%
+{%
+\gls@defglossaryentry{CM}%
+{%
+name={CM},%
+sort={CM},%
+type={acronym},%
+first={Consensus Mechanism\glsspace (CM)},%
+firstplural={Consensus Mechanisms\glsspace (CMs)},%
+text={CM},%
+plural={CMs},%
+description={Consensus Mechanism},%
+descriptionplural={Consensus Mechanism\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Consensus Mechanism},%
+longplural={Consensus Mechanisms},%
+short={CM},%
+shortplural={CMs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{DDoS}{}%
+{%
+\gls@defglossaryentry{DDoS}%
+{%
+name={DDoS},%
+sort={DDoS},%
+type={acronym},%
+first={Distributed Denial of Service\glsspace (DDoS)},%
+firstplural={Distributed Denial of Services\glsspace (DDoSs)},%
+text={DDoS},%
+plural={DDoSs},%
+description={Distributed Denial of Service},%
+descriptionplural={Distributed Denial of Service\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Distributed Denial of Service},%
+longplural={Distributed Denial of Services},%
+short={DDoS},%
+shortplural={DDoSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{DNs}{}%
+{%
+\gls@defglossaryentry{DNs}%
+{%
+name={DNs},%
+sort={DNs},%
+type={acronym},%
+first={Distribution Nodes\glsspace (DNs)},%
+firstplural={Distribution Nodess\glsspace (DNss)},%
+text={DNs},%
+plural={DNss},%
+description={Distribution Nodes},%
+descriptionplural={Distribution Nodes\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Distribution Nodes},%
+longplural={Distribution Nodess},%
+short={DNs},%
+shortplural={DNss},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ETH}{}%
+{%
+\gls@defglossaryentry{ETH}%
+{%
+name={ETH},%
+sort={ETH},%
+type={acronym},%
+first={Ethereum\glsspace (ETH)},%
+firstplural={Ethereums\glsspace (ETHs)},%
+text={ETH},%
+plural={ETHs},%
+description={Ethereum},%
+descriptionplural={Ethereum\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Ethereum},%
+longplural={Ethereums},%
+short={ETH},%
+shortplural={ETHs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{GCN}{}%
+{%
+\gls@defglossaryentry{GCN}%
+{%
+name={GCN},%
+sort={GCN},%
+type={acronym},%
+first={Garbage Collecting Node\glsspace (GCN)},%
+firstplural={Garbage Collecting Nodes\glsspace (GCNs)},%
+text={GCN},%
+plural={GCNs},%
+description={Garbage Collecting Node},%
+descriptionplural={Garbage Collecting Node\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Garbage Collecting Node},%
+longplural={Garbage Collecting Nodes},%
+short={GCN},%
+shortplural={GCNs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{LN}{}%
+{%
+\gls@defglossaryentry{LN}%
+{%
+name={LN},%
+sort={LN},%
+type={acronym},%
+first={Leading Node\glsspace (LN)},%
+firstplural={Leading Nodes\glsspace (LNs)},%
+text={LN},%
+plural={LNs},%
+description={Leading Node},%
+descriptionplural={Leading Node\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Leading Node},%
+longplural={Leading Nodes},%
+short={LN},%
+shortplural={LNs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{MMORPG}{}%
+{%
+\gls@defglossaryentry{MMORPG}%
+{%
+name={MMORPG},%
+sort={MMORPG},%
+type={acronym},%
+first={massively multiplayer online role-playing game\glsspace (MMORPG)},%
+firstplural={massively multiplayer online role-playing games\glsspace (MMORPGs)},%
+text={MMORPG},%
+plural={MMORPGs},%
+description={massively multiplayer online role-playing game},%
+descriptionplural={massively multiplayer online role-playing game\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={massively multiplayer online role-playing game},%
+longplural={massively multiplayer online role-playing games},%
+short={MMORPG},%
+shortplural={MMORPGs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{NFTs}{}%
+{%
+\gls@defglossaryentry{NFTs}%
+{%
+name={NFTs},%
+sort={NFTs},%
+type={acronym},%
+first={Non-fungible tokens\glsspace (NFTs)},%
+firstplural={Non-fungible tokenss\glsspace (NFTss)},%
+text={NFTs},%
+plural={NFTss},%
+description={Non-fungible tokens},%
+descriptionplural={Non-fungible tokens\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Non-fungible tokens},%
+longplural={Non-fungible tokenss},%
+short={NFTs},%
+shortplural={NFTss},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{PBFT}{}%
+{%
+\gls@defglossaryentry{PBFT}%
+{%
+name={PBFT},%
+sort={PBFT},%
+type={acronym},%
+first={Practical Byzantine Fault Tolerance Consensus\glsspace (PBFT)},%
+firstplural={Practical Byzantine Fault Tolerance Consensuss\glsspace (PBFTs)},%
+text={PBFT},%
+plural={PBFTs},%
+description={Practical Byzantine Fault Tolerance Consensus},%
+descriptionplural={Practical Byzantine Fault Tolerance Consensus\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Practical Byzantine Fault Tolerance Consensus},%
+longplural={Practical Byzantine Fault Tolerance Consensuss},%
+short={PBFT},%
+shortplural={PBFTs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{P}{}%
+{%
+\gls@defglossaryentry{P}%
+{%
+name={P},%
+sort={P},%
+type={acronym},%
+first={Partition Tolerance\glsspace (P)},%
+firstplural={Partition Tolerances\glsspace (Ps)},%
+text={P},%
+plural={Ps},%
+description={Partition Tolerance},%
+descriptionplural={Partition Tolerance\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Partition Tolerance},%
+longplural={Partition Tolerances},%
+short={P},%
+shortplural={Ps},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{PoA}{}%
+{%
+\gls@defglossaryentry{PoA}%
+{%
+name={PoA},%
+sort={PoA},%
+type={acronym},%
+first={Proof-Of-Authority\glsspace (PoA)},%
+firstplural={Proof-Of-Authoritys\glsspace (PoAs)},%
+text={PoA},%
+plural={PoAs},%
+description={Proof-Of-Authority},%
+descriptionplural={Proof-Of-Authority\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Proof-Of-Authority},%
+longplural={Proof-Of-Authoritys},%
+short={PoA},%
+shortplural={PoAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{PoET}{}%
+{%
+\gls@defglossaryentry{PoET}%
+{%
+name={PoET},%
+sort={PoET},%
+type={acronym},%
+first={Proof-Of-Elapsed-Time\glsspace (PoET)},%
+firstplural={Proof-Of-Elapsed-Times\glsspace (PoETs)},%
+text={PoET},%
+plural={PoETs},%
+description={Proof-Of-Elapsed-Time},%
+descriptionplural={Proof-Of-Elapsed-Time\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Proof-Of-Elapsed-Time},%
+longplural={Proof-Of-Elapsed-Times},%
+short={PoET},%
+shortplural={PoETs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{PoP}{}%
+{%
+\gls@defglossaryentry{PoP}%
+{%
+name={PoP},%
+sort={PoP},%
+type={acronym},%
+first={Proof-Of-Play\glsspace (PoP)},%
+firstplural={Proof-Of-Plays\glsspace (PoPs)},%
+text={PoP},%
+plural={PoPs},%
+description={Proof-Of-Play},%
+descriptionplural={Proof-Of-Play\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Proof-Of-Play},%
+longplural={Proof-Of-Plays},%
+short={PoP},%
+shortplural={PoPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{PoT}{}%
+{%
+\gls@defglossaryentry{PoT}%
+{%
+name={PoT},%
+sort={PoT},%
+type={acronym},%
+first={Proof-Of-Turn\glsspace (PoT)},%
+firstplural={Proof-Of-Turns\glsspace (PoTs)},%
+text={PoT},%
+plural={PoTs},%
+description={Proof-Of-Turn},%
+descriptionplural={Proof-Of-Turn\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Proof-Of-Turn},%
+longplural={Proof-Of-Turns},%
+short={PoT},%
+shortplural={PoTs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{PoS}{}%
+{%
+\gls@defglossaryentry{PoS}%
+{%
+name={PoS},%
+sort={PoS},%
+type={acronym},%
+first={Proof-Of-Stake\glsspace (PoS)},%
+firstplural={Proof-Of-Stakes\glsspace (PoSs)},%
+text={PoS},%
+plural={PoSs},%
+description={Proof-Of-Stake},%
+descriptionplural={Proof-Of-Stake\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Proof-Of-Stake},%
+longplural={Proof-Of-Stakes},%
+short={PoS},%
+shortplural={PoSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{PoW}{}%
+{%
+\gls@defglossaryentry{PoW}%
+{%
+name={PoW},%
+sort={PoW},%
+type={acronym},%
+first={Proof-Of-Work\glsspace (PoW)},%
+firstplural={Proof-Of-Works\glsspace (PoWs)},%
+text={PoW},%
+plural={PoWs},%
+description={Proof-Of-Work},%
+descriptionplural={Proof-Of-Work\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Proof-Of-Work},%
+longplural={Proof-Of-Works},%
+short={PoW},%
+shortplural={PoWs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Ripple}{}%
+{%
+\gls@defglossaryentry{Ripple}%
+{%
+name={Ripple},%
+sort={Ripple},%
+type={acronym},%
+first={Ripple Consensus\glsspace (Ripple)},%
+firstplural={Ripple Consensuss\glsspace (Ripples)},%
+text={Ripple},%
+plural={Ripples},%
+description={Ripple Consensus},%
+descriptionplural={Ripple Consensus\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Ripple Consensus},%
+longplural={Ripple Consensuss},%
+short={Ripple},%
+shortplural={Ripples},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{rrTs}{}%
+{%
+\gls@defglossaryentry{rrTs}%
+{%
+name={rrTs},%
+sort={rrTs},%
+type={acronym},%
+first={relevant (revealed) Transactions\glsspace (rrTs)},%
+firstplural={relevant (revealed) Transactionss\glsspace (rrTss)},%
+text={rrTs},%
+plural={rrTss},%
+description={relevant (revealed) Transactions},%
+descriptionplural={relevant (revealed) Transactions\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={relevant (revealed) Transactions},%
+longplural={relevant (revealed) Transactionss},%
+short={rrTs},%
+shortplural={rrTss},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{SC}{}%
+{%
+\gls@defglossaryentry{SC}%
+{%
+name={SC},%
+sort={SC},%
+type={acronym},%
+first={Smart Contract\glsspace (SC)},%
+firstplural={Smart Contracts\glsspace (SCs)},%
+text={SC},%
+plural={SCs},%
+description={Smart Contract},%
+descriptionplural={Smart Contract\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Smart Contract},%
+longplural={Smart Contracts},%
+short={SC},%
+shortplural={SCs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{TCM}{}%
+{%
+\gls@defglossaryentry{TCM}%
+{%
+name={TCM},%
+sort={TCM},%
+type={acronym},%
+first={Tendermind Consensus Model\glsspace (TCM)},%
+firstplural={Tendermind Consensus Models\glsspace (TCMs)},%
+text={TCM},%
+plural={TCMs},%
+description={Tendermind Consensus Model},%
+descriptionplural={Tendermind Consensus Model\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Tendermind Consensus Model},%
+longplural={Tendermind Consensus Models},%
+short={TCM},%
+shortplural={TCMs},%
+counter={page},%
+parent={},%
+%
+}%
+}%

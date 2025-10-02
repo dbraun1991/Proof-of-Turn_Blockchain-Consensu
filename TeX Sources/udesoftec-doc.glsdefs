@@ -1,0 +1,120 @@
+\ifglsentryexists{ui}{}%
+{%
+\gls@defglossaryentry{ui}%
+{%
+name={UI},%
+sort={UI},%
+type={acronym},%
+first={User Interface\glsspace (UI)},%
+firstplural={User Interfaces\glsspace (UIs)},%
+text={UI},%
+plural={UIs},%
+description={User Interface, \entode {Benutzeroberfläche}},%
+descriptionplural={User Interface\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={User Interface},%
+longplural={User Interfaces},%
+short={UI},%
+shortplural={UIs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{b2c}{}%
+{%
+\gls@defglossaryentry{b2c}%
+{%
+name={B2C},%
+sort={B2C},%
+type={acronym},%
+first={Business-to-Customer\glsspace (B2C)},%
+firstplural={Business-to-Customers\glsspace (B2Cs)},%
+text={B2C},%
+plural={B2Cs},%
+description={Business-to-Customer, \entode {Unternehmen-zu-Kunde}, beschreibt den Zielmarkt für Transaktionen},%
+descriptionplural={Business-to-Customer\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Business-to-Customer},%
+longplural={Business-to-Customers},%
+short={B2C},%
+shortplural={B2Cs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Pattern}{}%
+{%
+\gls@defglossaryentry{Pattern}%
+{%
+name={Pattern},%
+sort={Pattern},%
+type={main},%
+first={Pattern},%
+firstplural={Patterns},%
+text={Pattern},%
+plural={Patterns},%
+description={TODO:Pattern Definition},%
+descriptionplural={TODO:Pattern Definition},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Pattern-Kategorie}{}%
+{%
+\gls@defglossaryentry{Pattern-Kategorie}%
+{%
+name={Pattern-Kategorie},%
+sort={Pattern-Kategorie},%
+type={main},%
+first={Pattern-Kategorie},%
+firstplural={Pattern-Kategories},%
+text={Pattern-Kategorie},%
+plural={Pattern-Kategories},%
+description={Die Einteilung eines \gls {Pattern} in einem Pattern-Katalog},%
+descriptionplural={Die Einteilung eines \gls {Pattern} in einem Pattern-Katalog},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%

@@ -1,0 +1,142 @@
+% !Mode:: "TeX:UTF-8"
+%% udesoftec-doc.tex
+%% Copyright 2015 J. Peter M. Schuler
+%% 2021/02/22 v1.7.1 udesoftec
+\documentclass[en,vawiessen]{udesoftec} 
+\usepackage{udesoftec-extra}
+\usepackage{amssymb}
+
+% Default fixed font does not support bold face
+\DeclareFixedFont{\ttb}{T1}{txtt}{bx}{n}{12} % for bold
+\DeclareFixedFont{\ttm}{T1}{txtt}{m}{n}{12}  % for normal
+
+% Custom colors
+\usepackage{color}
+\definecolor{deepblue}{rgb}{0,0,0.5}
+\definecolor{deepred}{rgb}{0.6,0,0}
+\definecolor{deepgreen}{rgb}{0,0.5,0}
+
+\usepackage{listings}
+
+% Python style for highlighting
+\newcommand\pythonstyle{\lstset{
+		language=Python,
+		basicstyle=\ttm,
+		morekeywords={self},              % Add keywords here
+		keywordstyle=\ttb\color{deepblue},
+		emph={MyClass,__init__},          % Custom highlighting
+		emphstyle=\ttb\color{deepred},    % Custom highlighting style
+		stringstyle=\color{deepgreen},
+		frame=tb,                         % Any extra options here
+		showstringspaces=false
+}}
+
+% Python environment
+\lstnewenvironment{python}[1][]
+{
+	\pythonstyle
+	\lstset{#1}
+}
+{}
+
+% Python for external files
+\newcommand\pythonexternal[2][]{{
+		\pythonstyle
+		\lstinputlisting[#1]{#2}}}
+
+% Python for inline
+\newcommand\pythoninline[1]{{\pythonstyle\lstinline!#1!}}
+
+
+
+
+
+\usetikzlibrary{shadows}
+\newcommand*\keystroke[1]{%from http://tex.stackexchange.com/questions/5226/keyboard-font-for-latex
+  \tikz[baseline=(key.base)]
+    \node[%
+      draw,
+      fill=white,
+      drop shadow={shadow xshift=0.15ex,shadow yshift=-0.15ex,fill=black,opacity=0.75},
+      rectangle,
+      rounded corners=1pt,
+      inner sep=.5pt,
+      line width=0.5pt,
+      font=\scriptsize\sffamily
+    ](key){\strut{}#1};%
+}
+
+\newcommand{\BibTeX}{BibTeX}
+
+\input{Titlepage} % eine Datei in der der Inhalt strukturiert abgelegt wird
+
+\abstract{
+	This master thesis deals with Blockchain Technology in mobile turn based peer to peer games.
+	First, it investigates the capabilities of Blockchain Technology to be used for gaming applications.
+	In this regard, among others, \textit{Proof-of-Mechanisms}, \textit{Vote-based Consensus}
+	and several \textit{Performance Improvements} are described.
+	Second, several smart contracts are introduced to show the general
+	feasibility of turn based games hosted on Blockchain Technology.
+	More specific, \textit{Hidden transactions}, \textit{Randomization},
+	\textit{Piles of Cards}, \textit{Fog of War} elements, \textit{Data allocation improvements}
+	and other smart contracts are specified.	
+	Third, a special Proof-of-Turn consensus mechanism, based on the Blockchain Technology,
+	is defined to enable game publishers to cut costs in the means of their provided game servers.
+	Herein, \textit{Byzantine Fault Tolerance}, \textit{Peering}, the \textit{CAP Theorem},
+	\textit{Interoperability} among other characteristics are covered.	
+	Last, these measures shall additionally raise the trust level among the players in mobile turn based games.
+}
+
+\renewcommand{\udesoftecoverride}{
+    \renewcaptionname{ngerman}{\labelabstracttitle}{Zusammenfassung}
+    \renewcaptionname{british}{\labelabstracttitle}{Abstract}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%% DOCUMENT %%%%%%%%%%%%%%%%%%%%%%%%
+
+\gdef\udesoftec@usedlistofitems@acronyms{}
+
+\label{udesoftec:needsloa}
+
+\renewcaptionname{british}{\udesoftecAcronymsTitle}{Abbreviations}%
+
+\begin{document}
+	
+	\newacronym{A}{A}{Availability}
+	\newacronym{BT}{BT}{Bloat Transaction}
+	\newacronym{BC}{BC}{Blockchain}
+	\newacronym{BCT}{BCT}{Blockchain Technology}
+	\newacronym{BFT}{BFT}{Byzantine Fault Tolerance}
+	\newacronym{BPMN}{BPMN}{Business Process Modeling Notation}
+	\newacronym{C}{C}{Consistency}
+	\newacronym{CF}{CF}{Consensus Finality}
+	\newacronym{CM}{CM}{Consensus Mechanism}
+	\newacronym{DDoS}{DDoS}{Distributed Denial of Service}
+	\newacronym{DNs}{DNs}{Distribution Nodes}
+	\newacronym{ETH}{ETH}{Ethereum}
+	\newacronym{GCN}{GCN}{Garbage Collecting Node}
+	\newacronym{LN}{LN}{Leading Node}
+	\newacronym{MMORPG}{MMORPG}{massively multiplayer online role-playing game}
+	\newacronym{NFTs}{NFTs}{Non-fungible tokens}
+	\newacronym{PBFT}{PBFT}{Practical Byzantine Fault Tolerance Consensus}
+	\newacronym{P}{P}{Partition Tolerance}
+	\newacronym{PoA}{PoA}{Proof-Of-Authority}
+	\newacronym{PoET}{PoET}{Proof-Of-Elapsed-Time}
+	\newacronym{PoP}{PoP}{Proof-Of-Play}
+	\newacronym{PoT}{PoT}{Proof-Of-Turn}
+	\newacronym{PoS}{PoS}{Proof-Of-Stake}
+	\newacronym{PoW}{PoW}{Proof-Of-Work}
+	\newacronym{Ripple}{Ripple}{Ripple Consensus}
+	\newacronym{rrTs}{rrTs}{relevant (revealed) Transactions}
+	\newacronym{SC}{SC}{Smart Contract}
+	\newacronym{TCM}{TCM}{Tendermind Consensus Model}
+	
+	\input{Content} % eine Datei in der der Inhalt strukturiert abgelegt wird
+	
+	%%%%%%%%%%%%%%%%%%%%%%%% APPENDIX %%%%%%%%%%%%%%%%%%%%%%%
+	\appendix% \addcontentsline{toc}{chapter}{Anhang}
+	\input{contents/P_Appendix}
+	
+	\bibliography{BCinTBG} % output Literature and use this file as bibtext catalogue
+	
+\end{document}

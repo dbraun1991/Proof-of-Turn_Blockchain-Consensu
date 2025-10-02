@@ -1,0 +1,107 @@
+
+\chapter{Conclusion \& Outlook}
+\label{chap:ConclusionAndOutLook}
+
+To answer the primary research question ..
+\begin{center}
+	\textit{"Can \gls{BCT} be used to reduce publisher's server costs whilst \\
+		providing (mobile) players a suitable gaming experience?"}
+\end{center}
+.. the two leading questions have been discussed and answered within chapter 
+\hyperref[chap:BCT]{Blockchain Technology} and chapter \hyperref[chap:PoT]{Proof-of-Turn}.
+Nevertheless, the primary research question cannot be answered within a straight boolean value spectrum.
+
+\noindent From a purely algorithmic perspective, there is a solution to most challenges (e.g. \hyperref[sec:PileOfCards]{Card draw}).
+But that there is a viable algorithm is only part of the answer.
+This thesis brings to mind that every additional required algorithm is a trade-off:
+What is gained in pure feasibility on one side, is payed in additional development effort, higher complexity (and lower maintainability), lower system performance (and higher transaction costs).
+The risk of faulty technicality decreases, but other risks increase in return.
+In the case of games, dropping out players due to limited chances to win would be only one of the problematic cases.
+Especially the higher complexity should be evaluated throughout, before the need of cumbersome fixes arise.
+
+\noindent Therefore, whilst \gls{CM}s may function unexpectedly good in a theoretical document,
+the final '\textit{design of upper level (gaming) software}', '\textit{additional programming effort}' as well as
+'\textit{cooperation and coordination of gamers}' (e.g. players do only regularly quit game sessions)
+are major factors which have to be considered to answer the research question throughout.
+
+\noindent This additional research would offer further insights to adjust and verify first the given working assumptions
+and second the \hyperref[script:GraphPlots]{plots} containing (only) sample data.
+Hence, sample games have to be invented, implemented and analyzed throughout.
+Unluckily, the concomitant workload would have exceeded the scope of this document by far.
+
+\noindent Nevertheless, the tight budgets in the gaming industry call for mechanisms to improve
+their games backend and \gls{PoT} offers a solution for slow paced games promising low (networking) costs.
+Thus, finding sample applications conducting \gls{PoT} is assumed not to be too far fetched,
+as described in the \hyperref[sec:Outlook]{Outlook}.
+
+\pagebreak
+
+
+
+\section{Outlook}
+\label{sec:Outlook}
+
+The outlook focuses on the \gls{PoT} \gls{CM}, but abstracts from the use case of games.
+Hence, research in other possible application's use cases with \gls{PoT}
+and '\textit{Adaption in the Wild}' is aimed for:
+\begin{enumerate}
+	\item \textbf{A truly distributed chat} \\
+	Given an initial interconnection, every pair of devices could establish a \gls{BC} for their chat protocol.
+	To the writer's knowledge, every recent messenger relies on central server technology.
+	Still the most messengers lack funding.
+	If users had an especially high need for privacy wherein only their devices had encryption keys, 
+	they could use a messenger build upon \gls{BCT} using a lightweight \gls{CM} as \gls{PoT}.
+	Interconnection could still suffer speed as the other node peer might be offline,
+	but speed up turns, down to $\sim$ten seconds seem possible.
+	During inactivity, dynamic turn time may be used as well.
+	Here, if turn time was set to long (sleeping chat),
+	a direct message to the \gls{LN} could trigger its turn's end and decrease transaction delivery times.
+	Last, it would be reasonable to sacrifice instantaneous delivery for an increased level of security,
+	as non existing central servers can not loose their integrity.
+	
+	\item \textbf{Cryptocurrencies and parliamentary elections} \\
+	The ability to rewrite the chain, grounded on any network vote,
+	makes \gls{PoT} futile both for cryptocurrencies and parliamentary elections.
+	Still, e.g. the possibility of flooding attacks and the setting in \textit{permissioned networks}
+	limits the practicality in this regard.
+	Therefore, it is discouraged to use \gls{PoT} in such critical infrastructures in general.
+	
+	\item \textbf{The citizens trust} \\
+	Awarding of public administration contracts is mostly conducted using a public administration's central server.
+	In this scenario, each company's offering is seen mutually exclusive to the others and all together create a race condition.
+	Moreover, knowing the bids of other companies creates unfair advantage to the informed
+	party - especially if the informed party still has to claim its price tag.
+	Not only does the \textit{offset revelation} mechanism (independent from \gls{BCT})
+	promise a fair and transparent match making in the market.
+	\gls{PoT} offers here a lightweight (computation) and balanced (writing permission) distributed \gls{CM}.
+	Hence, \gls{PoT} may help to lighten opaque administrative structures and raise the stakeholders' trust.
+	
+	\item \textbf{Responsible disclosure} \\
+	Just found vulnerabilities in software systems, formally known as zero-day vulnerabilities
+	as well as startling information gained from whistle-blowing activity endanger not only the targeted institution(s),
+	but also the investigative journalist(s) and security researcher(s).
+	The publishing party (person) is not dependent on any server to stay online or
+	has to fear that the central server is taken down from any higher authority.
+	Still \textit{offset revelation} can be used to inform affected parties first,
+	formally known as 'responsible disclosure'.
+	If implemented accordingly, the publishing party may stay anonymous and
+	gains additionally the ability to publish the encrypted data from a different node than the affiliated key(s).
+	Here, if nodes stay offline the \gls{PoT} algorithm may be adjusted to choose the next node according to online activity.
+	Inactive nodes are - after a network vote - skipped.
+	Hence, the publishing party is enabled to stay offline, until the right time to publish has come.
+	This scenario, again, shows the adaptability of \gls{PoT}.
+	Last, as \gls{PoT} assumes that nodes write their date themselves and
+	nodes do not compete for tokens gained from mining, the possibility is
+	high for the publishing party to release the data without intermediaries.
+	Additionally, as some critical acts are sometimes discovered, not whilst conducting, but during the phaseout,
+	transferring cryptocurrency tokens into traditional currencies was a risk for the publishing party.
+	Therefore, the absence of cryptocurrency tokens in \gls{PoT} protects publishing parties by design.
+			
+\end{enumerate}
+
+\noindent Next to \gls{PoT}, this thesis gives some hints on future research fields like
+'finding an optimal child-chain size' for different use cases. \\
+All these and other scenarios call for further research and '\textit{Adaption in the Wild}'.
+
+
+

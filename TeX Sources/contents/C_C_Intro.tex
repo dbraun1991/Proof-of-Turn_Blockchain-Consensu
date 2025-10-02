@@ -1,0 +1,213 @@
+
+\chapter{Introduction}
+\label{chap:Introduction}
+
+Since the beginning of peer to peer games, the game industry emerged towards online games in order to serve a growing number of simultaneous players \cite[192]{Nagygyorgy.2013}.
+After general networking moved from small local token ring- and Ethernet-based networks \cite[1]{Smythe.1999}
+towards huge online communities, gaming became a \textit{massive multiplayer online}-phenomenon (\citet[1]{Williams.2008}; \citet[1]{Wang.2012})
+and publishers needed to offer servers to coordinate the high amount of players \cite[41]{Lee.2008} and to prevent cheating.
+Nevertheless, all peers need to trust the publisher's server, whilst the server has to carry the costs of availability and network computation.
+Consequently, power consumption, computation workload and likewise attached costs for \textit{networking and peering} are mainly carried by 'the central participant' of the network.
+But sometimes the central element - e.g. a publisher - is not able to run the central server without the need to monetize its offerings.
+One consequence was the rise of private dedicated servers, hosted by private persons (e.g. using a peer-to-peer architecture \cite[41]{Lee.2008}), which were 'detached from the publisher's direct influence'.
+Additionally, the technical/mental hurdle to set up a dedicated server, whilst other more convenient games exist,
+as well as the single point of failure 'out of the publisher's reach'
+are considered reasons against a rise and large distribution of private, peer-owned dedicated servers.
+Nowadays, along with reduced server costs\footnote{\hspace{0.1cm}Reduction of running costs due to Moore's Law (\cite{Mann.2000}, 2000). Here: less power consumption or increased sessions per hardware unit.},
+many game publishers rely on in-game purchases, advertisements and data mining to target those players who are willing to pay more (\cite{Davis.2012}).
+Consequently, consumers "[...] are regularly exposed to predatory behaviour from the games publishers, with microtransactions and loot boxes [...]" \cite[14]{Laneve.2019}.
+Other distributed server architecture as proposed in the documents "A Distributed Server Architecture for Massively Multiplayer Online Games" from \citet{Khan.2006} and
+"Matrix: adaptive middleware for distributed multiplayer games" from \citet{Besancon.2019}, to the writer's knowledge, never settled in the consumer world. \\
+On the contrary, \gls{BCT} offers distributed computing in 'trustless environments' and
+offers many of those by the (game) publishers needed characteristics.
+Generally speaking, a \gls{BC} "[...] is an innovative technology, which can have a high impact in numerous industries,
+such as healthcare [1], supply-chain [2], finance [3] and video games [4]. BC are append-only ledgers shared across a network of clients" \cite[84]{Besancon.2019}. \\
+This thesis shall bring \gls{BCT} closer to practical use cases in the gaming industry.
+Therefore, this study may especially be of interest to the following readers:
+\begin{enumerate}
+	\item Researchers interested in enhancing \gls{BCT} and affiliated mechanisms.
+	\item Practitioners willing to understand how blockchain may affect the software (gaming) industry.
+	\item Managers and administrative staff from the software (gaming) industry looking for potential savings of server operation costs.
+\end{enumerate}
+The remainder of the document is structured as follows:\\
+This section will provide the problem statement, research design as well as guiding research questions in detail.
+In section 2, a review of \gls{BCT} and included mechanisms to achieve consensus are presented.
+Section 3 outlines recent applications of \gls{BCT} in the gaming industry as well as mechanisms to map known tabletop game mechanisms into digital contracts.
+In section 4, a novel \gls{CM} for \gls{BCT} is presented and discussed in detail.
+Finally, in section 5 the work is concluded and directions are provided for future research.
+
+
+
+\FloatBarrier
+
+\section{Current Situation}
+\label{sec:CurrentSituation}
+First of all, data and scientific research targeting the gaming industry is scarce.
+Still it is known that  most "[...] game projects fail to meet their financial expectations [...]" \cite[17]{Bethke.2003}.
+Nevertheless, the number of games is growing constantly (\cite{statista.com.2021}) and providers are forced
+to minimize their (running) costs (\cite{Koster.2018}).
+"Furthermore, small developers are finding it hard to stand out in a market dominated by giant companies that dwarf them through marketing or polish,
+with the average indie developer earning only around \$10 thousand a year" (\citet[14]{Laneve.2019} using data from \citet[6]{Gamesetwatch.com.2014}. \\
+Although there are several ways to cut costs, one of them is the use of dedicated servers which are paid by single peers or clans of the game network (\cite{Wikipedia.2021c}).
+Especially in the long run, overall costs \cite[13]{Weilbacher.2012} may be reduced by these servers and help publishers to keep the game alive and establish a network of players and enthusiasts.
+Some publishers offer dedicated servers (\cite{VALVe.2021}) as one possible solution for externalizing expensive hardware and maintenance.
+Nevertheless, there are some reasons against dedicated gaming servers:
+\begin{enumerate}
+	\item \textbf{Giving away the source code} \\
+	Behind this phrase, the publisher fears its game's code to be analyzed and cloned to provide any type of copycat product \cite[2]{Li.2014}.
+	Two prominent examples for this phenomenon in the game industry is the massive imitation of the mobile game 'flappy bird' (\cite{Li.2014})
+	as well as the co-evolution of the 'battle royale mode' (\cite{KooistraJ..2018}).
+	Hence, these game mechanic ideas skyrocketed and (many) late adopters followed, but not because the code was given 'out of hands' in the first place.
+	Therefore the argument can be considered obsolete as each game's general mechanics can be obtained by simply playing.
+	Nevertheless, the fear is not negligible in general as sometimes source code is stolen (\cite{vice.com.2021}).
+	
+	\item \textbf{Update laziness} \\
+	Games progress, therefore both 'security'- as well as 'game-mechanics'-updates
+	shall comply with publishers' and gamers' expectations.
+	But dedicated server providers are detached from the publishers' direct influence.
+	The providers act by intrinsic motivation, ranging from \textit{control} over \textit{fame} up to \textit{monetization}.
+	Hence, publishers as principals and providers as agents follow different incentives - which presents a \textit{Principal-agent problem} as generally described by \citet{STIGLITZ.1989}.
+	
+	\item \textbf{Nerdy peers} \\
+	As a server needs to work 24/7 to serve whenever needed, there need to be maintainers \cite[211]{Lowell.2004}.
+	These maintainers are not supposed to be casual gamers, but peers which offer expertise with web-servers, scripting and so forth (\cite{teamfortress.com.2021}).
+	On the one hand, without these type of persons, the offer of dedicated servers is worthless and
+	consequently cheap 'scalability and accessibility' can not be achieved.
+	On the other hand, a game publisher has to consider an additional group of (silent) stakeholders.
+	
+	\item \textbf{Shadow server} \\
+	A \textit{shadow server} is considered a server which runs on one players device, without the player's knowledge/consent.
+	This is not recommended as players could 'force quit' the game or shut down their system (unintended).
+	Consequently the (dedicated) shadow server would end to serve and remaining players are kicked out of their games which presumably leads to a bad consumer experience.
+	
+	\item \textbf{Lost peer management \& data collection} \\
+	In the assumption that dedicated servers are generally detached from the publisher's reach,
+	metrics and other data get lost although gamers stay within the game's ecosystem.
+	Still, publishers have a "Need for Metrics" \cite[152]{Palmer.2002} to find flaws in their games.
+	Thus, dedicated servers are seen as a misleading approach.
+	
+	\item \textbf{Performance} \\
+	Bad performance of dedicated servers leads to bad consumer experience \cite[10]{Weilbacher.2012}.
+	Nevertheless, the reasons for bad performance are manifold, from slow server devices not suitable to host their
+	(large scale) games up to slow broadband connection \cite[10]{Weilbacher.2012}.
+	
+	\item \textbf{Integrity \& Cheating} \\
+	The combination of nerdy peers and the possibility to modify game content (e.g. within a 'modding community')
+	could lead to cheating behavior and consequent changed game characteristics (\cite{Morris.2003}).
+	Although there are basic possibilities to check the integrity of server instances (\cite{Agosta.2003}; \cite{Deswarte.2004}),
+	the publishers or other players can't rely on the system to be somehow silently manipulated.
+	
+\end{enumerate}
+Still, the number of persons 'willing and able' to provide dedicated servers is seen low compared to the number of gamers playing in the manifold games.
+To the writers knowledge, despite the enormous amount of mobile (Android) apps offering server-based network multiplayer
+modes (\cite{itch.io.2021}),
+there are only some mobile games, such as \textit{'Among Us'} and \textit{'Minecraft'} offering dedicated servers.
+Those games have been designed for desktop primarily and have only thereafter been ported to mobile operating systems (Here: Android \& iOS).
+Compared to the 'Hard-core' gamers, mobile and 'casual' gamers can be considered less likely to set up additional systems
+to boost their game sessions due to reduced general involvement \cite[388]{Prugsamatz.2010}.
+As small, independent developers might not be able to afford additional running servers,
+there is a (growing) demand for distributed computing in the mobile gaming ecosystem.
+At this point the interest in the present work originates from the insights into game development and knowledge about \gls{BCT}.
+During the last years, \gls{BCT} emerged and offers the possibility to establish distributed networks to share data without a central authority.
+For now, "[...] an analysis of the different projects, [...]" has shown "[...] that the main problems blockchain games face are related to scalability and transaction speed" \cite[47]{Laneve.2019}.
+Nevertheless, if there is a possibility to tweak a Proof-/Voting-Based Consensus Model \cite[3]{Khan.2020} to fit the need of the gaming industry,
+it might keep cooperative niche games alive or kick start some community driven game development projects \cite[14]{Laneve.2019}.
+
+
+
+\FloatBarrier
+
+\section{Problem Statement}
+\label{sec:ProblemStatement}
+
+The biggest issue seen for game publishers is the shortage of money, both during production and operation (\cite{Koster.2018}).
+Sometimes, when games do not settle in the market, publisher servers need to be shut down (\cite{rockpapershotgun.com.2021}).
+This beholds true for all genres as network- and cross selling effects play a key role for the survival of online (multiplayer) games \cite[45]{Rong.2018}. \\
+Once game servers are shut down, players can only play offline, if at all.
+Additionally, games are established in the perception of long term revenue.
+Hence, once an investment decision for a game idea is made, long availability is a key feature.
+Only an accessible game can continue to yield revenue.
+Last, due to tight budget plans during a game's creation process, additional effort for dedicated servers is mostly not met as an active community has not yet existed.
+Consequently, many game publishers are in a problematic situation between \textit{bankruptcy} and \textit{squeezing their consumers} for income generation \cite{Sotamaa.2021}.
+Once a game is established, besides fixing bugs and implementing new features, running servers are a key driver of 'keep alive costs'.
+The question arises whether there is any backend technology to further minimize some of the games running server costs.
+The solution has to be:
+\begin{enumerate}
+	\item \textbf{Distributed}, to relieve the central running server from some/many workloads.
+	\item \textbf{Trusted}, preventing malicious behavior and cheating.
+	\item \textbf{Cross-plattform} applicable to take advantage of gamers using different operating systems.
+	\item \textbf{Scalable \& Fast}, at least for some designated game niche use cases.
+	\item \textbf{Leightweight} in terms of preventing heavy computation on single devices.
+\end{enumerate}
+On the first look, \gls{BCT} offers some of these characteristics.
+Nevertheless, as "[...] it stands, blockchain technology does not seem applicable for the design of the most popular game genres such as first-person shooters or real-time strategy[...]" \cite[3]{Serada.2020}.
+Still, "[...] several attempts have been made in this direction (e.g., EOS Knights, HyperDragons, and Epic Dragons), and many more are likely to follow [...]" \cite[3]{Serada.2020}. \\
+Therefore this document will examine \gls{BCT} thoroughly to find a suitable application area.
+
+
+
+\FloatBarrier
+
+\section{Research Design \& Questions}
+\label{sec:ResearchDesignQuestions}
+
+The main research question which shall be answered with this thesis is:
+\begin{center}
+	\textit{"Can \gls{BCT} be used to reduce publisher's server costs whilst \\
+		providing (mobile) players a suitable gaming experience?"}
+\end{center}
+To guide the further procedure, no explicit framework is used.
+As a starting point the recent literature has been reviewed to reflect the state of research about \gls{BCT} and related \gls{CM}s.
+The results of the grounding research and the \gls{CM}s performance characteristics are given in the chapter \hyperref[chap:BCT]{Blockchain Technology}.
+Additionally, as \gls{BCT} is still pretty young regarding the field of information systems - starting from \cite{Nakamoto.2009} in 2009 -
+there is only scarce literature to be found in the intersection with the gaming industry, yet.
+Still, some applications and use cases of \gls{BCT} in games could be found.
+"The industry has started its exploration on this topic by integrating traditional games with blockchain systems" \cite[1]{Min.2019b}.
+Further more, \citet[1]{Min.2019b} state that blockchain games have already become an important component of decentralized applications and have held a considerable market capitalization.
+Nevertheless, these applications are barely suitable for game play related issues.\\
+As \gls{BCT} builds on trust and agreed rules, the mechanism called \gls{SC} has to be mentioned.
+\gls{SC}s are rulesets which can be used to establish agreements between participants of \gls{BCT} networks.
+As there seem to be reasons, which prevent even slow paced games to be conducted on \gls{BCT}, the following guiding question has been raised:
+\begin{center}
+	\textit{"Which kind of \gls{SC}s need to be established to cover typical in-game mechanics?"}
+\end{center}
+Both, existing games using \gls{BCT} as well as game specific \gls{SC}s are given in chapter \hyperref[chap:BlockchainInGames]{Blockchain in Games}.
+Moreover, during the search for suitable \gls{CM}s for games hosted on \gls{BCT},
+it appeared that games with realtime-mechanics, such as first person shooters and \gls{MMORPG},
+can be considered as not suitable for \gls{BCT} backbones \cite[19]{Serada.2020}.
+Therefore, fast paced games became out of scope as distributed computation lacks performance regarding speed most of the time \cite[3]{Serada.2020}.
+Thus this present work concentrates on slow paced games, such as asynchronous 'turn based (strategy)'-games \cite[1]{Bergsma.2008} and raises a second guiding question:
+\begin{center}
+	\textit{"What is the best fitting \gls{BCT} \gls{CM} to cover an asynchronous game play scenario?"}
+\end{center}
+
+To address this research gap, the different Proof-/Voting-Based Consensus Models are evaluated and
+a novel \gls{CM} (Chapter: \hyperref[chap:PoT]{Proof-of-Turn}) is proposed.
+\gls{PoT} is a special merge of existing protocols to fit the need of turn based games and
+remains a theoretical proof of concept for a (new) Proof-/Voting-Based \gls{CM}.
+Consequently the research hypothesis is:
+\begin{center}
+	\textit{"The \gls{PoT} \gls{CM} leads to a reduction of server running costs for game publishers."}
+\end{center}
+Additionally the following working assumptions are used:
+\begin{enumerate}
+	\item \textit{Throughout a game a majority of peers is constantly online.}
+	\item \textit{The network offers enough transmission performance (throughput/bandwidth).}
+	\item \textit{Every peer has the needed storage available.}
+	\item \textit{Depending on the 'real world'-scenario, the publisher's servers help on special \\
+		occasions (e.g. a trusted timestamp).}
+	\item \textit{Symmetric and asymmetric encryption is secure.}
+\end{enumerate}
+Due to the intersection of this research between \textit{business administration} and \textit{computer science},
+the document falls into the research area of \textit{economics of information systems}. \\
+Last, in other contexts gamers, players, peers and nodes are sometimes used as synonyms,
+but in the following they need to be distinguished:
+\begin{enumerate}
+	\item \textbf{Gamers} are persons, who play a game.
+	\item \textbf{Players}, which are considered digital in-game characters, are controlled by \textit{gamers}.
+	\item \textbf{Nodes} are hardware systems, which is part of a \gls {BCT}-(gaming-)network.
+	\item \textbf{Peers} are persons, who can be \textit{gamers} but predominantly own or maintain a node.
+\end{enumerate}
+Upcoming the core principles of \gls{BCT} are described.
+
+
