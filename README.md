@@ -13,7 +13,7 @@ The thesis was crafted in 2021.
 
 After some cooldown, it was submitted in 2023 on [https://arxiv.org](https://arxiv.org/abs/2304.07384).
 
-This Repository mirrors the knowledge from 2023.
+This Repository reflects the knowledge which existed in 2023.
 
 
 ## Aim
@@ -23,9 +23,7 @@ Whilst this repository shall only save the konwledge, a sample implementations s
 
 ## Sources
 
-The [TeX Sources](TeX%20Sources)
+The [LaTeX Sources](TeX%20Sources)
 as well as the
 [Proof-of-Turn_A-Blockchain-Consensus.pdf](Proof-of-Turn_A-Blockchain-Consensus.pdf)
 can be found here.
-
-
