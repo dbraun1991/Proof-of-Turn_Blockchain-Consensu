@@ -1,4 +1,4 @@
-# Proof-of-Turn
+# Proof-of-Turn - Blockchain Consensus
 
 Proof-of-Turn: Blockchain consensus using a round-robin procedure as one possible solution for cutting costs in mobile games
 
